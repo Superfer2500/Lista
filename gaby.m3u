@@ -1,0 +1,1093 @@
+#EXTM3U
+#EXTINF:-1, MUNDO TV | SD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4871&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.
+#EXTINF:-1, RTS TV | SD
+https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
+#EXTINF:-1, Ecuastereo | HD
+https://video.misistemareseller.com/ecuastereotv/ecuastereotv/chunklist_w1891749768.m3u8
+#EXTINF:-1, TVC ec | HD
+https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/chunks.m3u8
+#EXTINF:-1, Telesistema  | SD
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
+#EXTINF:-1, Asomavision | SD
+https://asomatv.duckdns.org/livestream/stream.m3u8
+#EXTINF:-1, Canal 7 jujuyuy | SD
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1, Venus Media | SD
+https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w1072440449.m3u8?k=c324ea560ee8630b27b66dbac9d5bef6907264a236486fdbfdb7839211d4f1ec&amp;exp=1676256933
+#EXTINF:-1, Cristo tv | SD
+https://vsrv2.az-streamingserver.com:3352/live/clarovisiontvradiolive.m3u8
+#EXTINF:-1, Cinemax | HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.ammo.runtime&amp;app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&amp;app_domain=runtime.tv&amp;app_name=runtime&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=runtime&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=https%253A%252F%252Fwww.runtime.tv%252F&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_0=&amp;custom_param_1=desktop&amp;custom_param_2=&amp;custom_param_3=&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%2520America&amp;timestamp=1676561741&amp;id=2964&amp;ip=45.224.152.74&amp;override_expiration=1500&amp;sign=kEJu1%2Bg4igYcXJGirWitAeu2PDryiqCaws%2BdjxoACnQ%3D
+#EXTINF:-1, Telemundo | SD
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1, Frecuencia tv | FHD
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1, Pelis | HD
+https://stmv2.voxtvhd.com.br/videokapc/videokapc/playlist.m3u8
+#EXTINF:-1,La Red Tv
+https://d5jxn18we1fqw.cloudfront.net/hls/live.m3u8
+#EXTINF:-1,Canal 3 TV
+https://stmvideo2.livecastv.com/agenfor/agenfor/chunklist_w457950439.m3u8
+#EXTINF:-1, CANAL 5 STV | HD
+https://lstv.duckdns.org:449/hls/stv.m3u8
+#EXTINF:-1, Cartunito | HD
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1, VISION TV MUSICAL | SD
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w1867208587.m3u8
+#EXTINF:-1, Bein Sport | HD
+https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1, PURUWA TV  | SD
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w2102122426.m3u8
+#EXTINF:-1, Rakuten ACCION | HD
+https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/playlist.m3u8
+#EXTINF:-1, Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1, ESTACIÓN CRISTAL TV
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
+#EXTINF:-1, Cartoon NET | HD
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
+#EXTINF:-1, Pat tv | HD
+https://w8.redpat.tv:7777/play/120/index.m3u8
+#EXTINF:-1,Telemundo Opcion 1
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1, GLOBO TV HD
+https://rtmp.info/iqtv/envivo/chunklist_w1472552298.m3u8
+#EXTINF:-1, DW Entretenimiento
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1,  NEX TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream3/chunks.m3u8
+#EXTINF:-1,TVmas
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1158872820.m3u8
+#EXTINF:-1, TVP PACIFICO
+https://5ca3e84a76d30.streamlock.net/gpacifico1/gpculiacan.smil/chunklist_w1636593705_b1428000_sleng.m3u8
+#EXTINF:-1, MI TV
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+#EXTINF:-1, REPRETEL 2 | HD
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal2_360.m3u8
+#EXTINF:-1, REPRETEL 11 | HD
+https://d2t46xrpai3it5.cloudfront.net/Canal11CR/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
+#EXTINF:-1, Planeta TV movies  | SD
+https://scl.edge.grupoz.cl/movie/live/chunklist_w248713290.m3u8
+#EXTINF:-1, Toon Goggles | HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=514&amp;avod=1&amp;coppa=1&amp;is_lat=1&amp;dnt=1&amp;us_privacy=1---&amp;did=00000000-0000-0000-0000-000000000000&amp;app_bundle=com.toongoggles.html5&amp;app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&amp;app_domain=toongoggles.com&amp;app_name=toongoggles&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=toongoggles&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=0&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=https%253A%252F%252Fwww.toongoggles.com%252F&amp;preroll_duration=30&amp;preroll=1&amp;livestream=1&amp;custom_param_0=&amp;custom_param_1=desktop&amp;custom_param_2=&amp;custom_param_3=&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%2520America&amp;timestamp=1682443386&amp;id=266202&amp;ip=45.224.152.74&amp;override_expiration=1500&amp;sign=mdVuadn5TWCYAU76pp9JPSHtUaHMutMoe1jK6X8FWrw%3D
+#EXTINF:-1, Pitufo TV | SD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4211&amp;avod=1&amp;coppa=1&amp;is_lat=1&amp;dnt=1&amp;us_privacy=1---&amp;did=00000000-0000-0000-0000-000000000000&amp;app_bundle=com.imps.smurfs&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=smurfs&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=smurfs&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=0&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.tv&amp;livestream=1&amp;custom_param_1=desktop&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%20America&amp;custom_param_0=&amp;custom_param_2=&amp;custom_param_3=
+#EXTINF:-1, Angry Birrds tv | SD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=0&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.toongoggles.com%252F&preroll_duration=30&preroll=1&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1684083203&id=266911&ip=45.224.152.74&override_expiration=1500&sign=pEoOkGAZcjg7b8uJ%2FKu0ivcA2Ig9Xu816%2FXsWu2Ykws%3D
+#EXTINF:-1, SUCESO TV
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+#EXTINF:-1, SOMOS DEL ESTE TV
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+#EXTINF:-1, B N TV | HD
+https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w1485617194.m3u8
+#EXTINF:-1, RT Español | HD
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+#EXTINF:-1, RT News | HD
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+#EXTINF:-1, RT USA | HD
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+#EXTINF:-1, RT UK | HD
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
+#EXTINF:-1, RT Docu | HD
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+#EXTINF:-1,Canal uno Ecuador
+https://cp.panelchs.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1,Jazmín Tv En Vivo
+https://tvdatta.com:3957/stream/play.m3u8
+#EXTINF:-1, KOA TV
+https://panel.dattalive.com/8028/8028/playlist.m3u8
+#EXTINF:-1,Rcg media | HD
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1,Rcg media 2 | HD
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1,Lobo tv | HD
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/chunklist_w55663209.m3u8
+#EXTINF:-1,TV Lobo | HD
+https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:-1,Mi tv  (HD)
+https://ss2.domint.net:3204/mitv_str/mitv/playlist.m3u8
+#EXTINF:-1,REGIONAL TV (HD)
+https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/chunklist_w1637404953.m3u8
+#EXTINF:-1, MI TV 2
+https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w735296660.m3u8
+#EXTINF:-1, ALMAYA TV
+https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
+#EXTINF:-1, Bem tv SPORTS
+https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1, PinguinoTV
+https://streaming.elpinguino.com:5391/live/EP.smil/chunklist_w1625468255_b1431026_slspa.m3u8
+#EXTINF:-1, ESTACIÓN CRISTAL TV
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
+#EXTINF:-1, NICK TEEN
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff371-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c59413c7-c50b-4407-b45a-db56bbc21724&userId=&serverSideAds=true
+#EXTINF:-1, MOVIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa508f20-2870-486b-a716-7a14ab7ab7fb&userId=&serverSideAds=true
+#EXTINF:-1, TELERED
+https://video20.klm99.com:3558/live/teleredlive.m3u8
+#EXTINF:-1, BEIN SPORTS XTRA
+https://i.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
+#EXTINF:-1, N mas GUADALAJARA
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
+#EXTINF:-1, SARAPIQUÍ TV
+https://lstv.duckdns.org:449/hls/stv.m3u8
+#EXTINF:-1, TELESISTEMA
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:-1, LOVE NATURE EN ESPAÑOL
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, LATINO KIDS
+https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
+#EXTINF:-1, Deutsche Welle Latino | SD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1, Deutsche Welle | SD
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1, FIGHT NETWORK
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1, REPRETEL | HD
+https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
+#EXTINF:-1, Guaymote tv | HD
+https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w510038118.m3u8
+#EXTINF:-1, DISCOVERY KIDS | HD
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
+#EXTINF:-1, Corazon tv | HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.tv&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_1=desktop&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%20America&amp;custom_param_0=&amp;custom_param_2=&amp;custom_param_3=
+#EXTINF:-1, TV Peru (Alt) | SD
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_3.m3u8
+#EXTINF:-1, Canal 10 Chetumal | HD
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1, ATV | SD
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv_480.m3u8
+#EXTINF:-1, Cablevision TV Peru | HD
+https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
+#EXTINF:-1, Turbo Mix Radio TV | SD
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:-1,Jalisco TV
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
+#EXTINF:-1, RTVE | HD
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_576.m3u8
+#EXTINF:-1, Recuerdos Retro | HD
+https://panel.tvstream.cl:1936/8034/8034/chunklist_w1244170437.m3u8?WebM3UCL
+#EXTINF:-1, INFINITA TV | HD
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:-1, ECUADOR TV| HD
+https://customer-qczi39xffvq35rae.cloudflarestream.com/f41c1d91e17809daf3bc4a6c212680b7/manifest/video.m3u8
+#EXTINF:-1, MIAMI TV| HD
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
+#EXTINF:-1, Varied Tv | HD
+https://6362ca6f1fc28.streamlock.net/8066/8066/chunklist_w1488662887.m3u8
+#EXTINF:-1, Planeta TV movies  | SD
+https://scl.edge.grupoz.cl/movie/live/chunklist_w1379090887.m3u8
+#EXTINF:-1, Multizonas tv | HD
+https://cloudvideo.servers10.com:8081/8068/tracks-v1a1/mono.m3u8
+#EXTINF:-1, BOLIVISION | HD
+https://d3eyooyk041snj.cloudfront.net/hls/live_480p30.m3u8
+#EXTINF:-1, Portal FoxMix | HD
+https://panel.tvstream.cl:1936/8040/8040/chunklist_w1797192962.m3u8
+#EXTINF:-1, MY TIME MOVIES
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1, MTV SPAKIN' NEW
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e6cd1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=86fe2c41-24ae-4853-942c-7cf0a3b53856&userId=&serverSideAds=true
+#EXTINF:-1, MY TIME MOVIES 2
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1,CANELA CLÁSSICOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1, CINEMA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=e4ce72c53dd087e8c9bcf30074bacd21&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&site_page=https%253A%252F%252Fwww.runtime.tv%252Fes%252Fapp&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1687918988&id=10407&ip=45.224.152.74&override_expiration=1500&sign=uXoxFDHc9lq4NLRdfIHVECl1%2FxdgLzcoyCp1EMHdVlo%3D
+#EXTINF:-1, Mas23 TV
+https://mediacp.us:8081/mas23tv/index.m3u8
+#EXTINF:-1, PLUTO TV E-SPORTS
+https://stitcher.pluto.tv/stitch/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=26e1d3a7-fa1f-11eb-9b62-0242ac110003
+#EXTINF:-1,CINCO TV | HD
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+#EXTINF:-1, Canal 13 España | SD
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1, Real Madrid TV | SD
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1, YU-GI-OH!
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
+#EXTINF:-1,House music TV  | SD
+https://stmv2.zcasthn.com.br/cattotv/cattotv/playlist.m3u8
+#EXTINF:-1, NICK LATINO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff371-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c59413c7-c50b-4407-b45a-db56bbc21724&userId=&serverSideAds=true
+#EXTINF:-1, TELE FE | SD
+https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.m3u8
+#EXTINF:-1, Hechos tv | SD
+https://stmv.streamingvip.click/hechosecuador/hechosecuador/chunklist_w1849385066.m3u8
+#EXTINF:-1, Xtremo Channel Zol | SD
+https://tv.xtremochannel.com:3730/live/xtremochannellive.m3u8
+#EXTINF:-1, Telered | SD
+https://video20.klm99.com:3558/live/teleredlive.m3u8
+#EXTINF:-1, Teleuno | SD
+https://5d16127744872.streamlock.net/TVUNO/TVUNO/chunklist_w1278055281.m3u8
+#EXTINF:-1, Extrema tv | SD
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w1578894677.m3u8
+#EXTINF:-1, Ticavision | SD
+https://rtmp.info/iqtv/envivo/chunklist_w1472552298.m3u8
+#EXTINF:-1, Cali TV | SD
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/.m3u8
+#EXTINF:-1, VISIÓN DORADA TV
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1, Canal CNC Medellin | SD
+https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/index.m3u8
+#EXTINF:-1, Canal 26 | HD
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1004694588_b1264000_sleng.m3u8
+#EXTINF:-1, Telemax | HD
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1095109692_b1828000_sleng.m3u8
+#EXTINF:-1, Music Top | HD
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1, Power HD | HD
+https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8
+#EXTINF:-1, CINE AR | HD
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1, Canal 5 Telesol | HD
+https://vcp2.myplaytv.com/telesol/telesol/chunklist_w794515700.m3u8
+#EXTINF:-1, DeporTV | SD
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1, TV DIGITAL | SD
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv_480.m3u8
+#EXTINF:-1, TENIS CHANNEL | SD
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1, MLB | HD
+https://estv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-estv-rakuten/CDN/master.m3u8
+#EXTINF:-1, Retro TV | SD
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1746248369_b750000.m3u8
+#EXTINF:-1, XTRA TV | SD
+https://cnn.essastream.com:3387/live/xtratvlive.m3u8
+#EXTINF:-1, Sona Onda TV | SD
+https://live.obslivestream.com/sonoondatv/tracks-v2a1/mono.m3u8
+#EXTINF:-1, ATV PLUS| SD
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
+#EXTINF:-1, Radio Bruno (Italia) | SD
+https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
+#EXTINF:-1,Antares tv | SD
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w334845884.m3u8
+#EXTINF:-1, Educa EC | SD
+https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8
+#EXTINF:-1,TU MUSICA HD
+https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
+#EXTINF:-1,T13 | SD
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1,ACCION MEXICANO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+#EXTINF:-1,TELEMAX
+https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/chunklist_w718095270.m3u8
+#EXTINF:-1,RCC TV
+https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/chunklist_w584696906.m3u8
+#EXTINF:-1, SUPER DISCOTECA TV
+https://canal.lasuperdiscotecatv.com:3020/live/lasuperdiscotecatvlive.m3u8
+#EXTINF:-1, KONFU MOVIES
+https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/PULBTK6FMBFU4URFHHMI/hls3/now_-1m_15s/m.m3u8?ads.vast_id=651545
+#EXTINF:-1, MULTIVISION CANAL 9 | SD
+https://panel.dattalive.com/8250/8250/chunklist_w1439458226.m3u8
+#EXTINF:-1, UNICANAL TV
+https://rds3gen.desdeparaguay.net/unicanal/unicanal_baja/playlist.m3u8?k=ad2155e52e17f5816865169aada270a610e9d60561d505407556a65c396bc8b7&amp;exp=1682558001
+#EXTINF:-1, MI TV
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
+#EXTINF:-1, UesTV
+https://tls-cl.cdnz.cl/uestv/live/chunklist_w1188481689.m3u8
+#EXTINF:-1, CINE ESPANTO | HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=e4ce72c53dd087e8c9bcf30074bacd21&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1691084212&id=6813&ip=45.224.152.74&override_expiration=1500&sign=6aote%2FsxHrM%2FGd07KYygmatUqUgMav7yelfQpm%2FuYIo%3D
+#EXTINF:-1, TVPE INTERNACIONAL
+https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_3.m3u8
+#EXTINF:-1, CINE KIDS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506&amp;avod=1&amp;coppa=1&amp;is_lat=1&amp;dnt=1&amp;us_privacy=1---&amp;did=00000000-0000-0000-0000-000000000000&amp;app_bundle=com.canela.ott&amp;app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&amp;app_domain=canela.tv&amp;app_name=canelatv&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=canelatv&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=en&amp;consent=1&amp;gdpr=0&amp;site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dcanelakids&amp;livestream=1&amp;custom_param_0=&amp;custom_param_1=desktop&amp;custom_param_2=&amp;custom_param_3=&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%2520America&amp;timestamp=1668801950&amp;id=38022&amp;ip=157.100.59.47&amp;override_expiration=1500&amp;deliveryProfileId=23762&amp;sign=nBorcNW3BC27mjTSRrEJKYjD5DtGQPsXrkZIv6Nt4a8%3D
+#EXTINF:-1, Santa María TV
+https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
+#EXTINF:-1, RADIO MXITV
+http://stream.zeno.fm/64nxbrzhsuhvv
+#EXTINF:-1, FUEGO TV
+https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
+#EXTINF:-1, VIVA MOVIL 2 TV
+https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
+#EXTINF:-1, VIVA movil tv
+https://tvdatta.com:3957/hybrid/play.m3u8
+#EXTINF:-1,Telemundo Noticias
+https://live-content.xumo.com/2592/content/XM06GWT4TVFWAW/22861908/3.m3u8
+#EXTINF:-1,La2.TV
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_1080.m3u8
+#EXTINF:-1,PEQUERADIO
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1, TELEUNIVERSO
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+#EXTINF:-1, PARAMUNT+ PRESENTA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1, Telpin 3
+https://intelincloud.com.ar/canales/canal3pinamar/index.m3u8
+#EXTINF:-1, GALAXIA TV LIVE
+https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8?DVR
+#EXTINF:-1, MEGA VISION
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
+#EXTINF:-1, HTV MUSIC
+https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8
+#EXTINF:-1, Canal 36 costa rica
+https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR
+#EXTINF:-1, Canal Capital HD
+https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-2500/index.m3u8
+#EXTINF:-1, TELEMUNDO HD
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1,MOVISTAR BEIN SPORT
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1,TU CINE HD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?url=https%3A%2F%2Fwww.freetv.com%2Fpeliculas%2Ftu-cine%2F&amp;genre=&amp;ic=&amp;us_privacy=2021&amp;coppa=0&amp;user_id=&amp;ip=157.100.59.47&amp;ipv6=&amp;c_duration=3600&amp;c_producer=tucine&amp;c_lang=es&amp;ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&amp;hls_marker=1&amp;content_channel=Tu+Cine&amp;content_title=&amp;content_genre=&amp;gdpr=0&amp;player_height=1080&amp;player_width=1920&amp;min_ad_duration=6&amp;max_ad_duration=120
+#EXTINF:-1, Wow TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1, ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w666151612.m3u8
+#EXTINF:-1, Pluto Novelas HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=6.2.1-041b6a96d2795999577532a465490fe620265728&app_name=web&clientDeviceType=0&clientID=73c188ed-3fa6-4f16-a5ae-2a809a48d918&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=73c188ed-3fa6-4f16-a5ae-2a809a48d918&deviceLat=-32.8500&deviceLon=-68.8167&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=102.0.5005&marketingRegion=VE&serverSideAds=true&sessionID=11380534-f0de-11ec-8ae4-0242ac110003&sid=11380534-f0de-11ec-8ae4-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZmZmI5OTlkLTM1YWMtNDYxYS1iOGQ3LWIyZmVkN2I4YjRlMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxMTM4MDUzNC1mMGRlLTExZWMtOGFlNC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS44Mi4xMTQuMjIiLCJjaXR5IjoiTGFzIEhlcmFzIiwicG9zdGFsQ29kZSI6IjU1MzkiLCJjb3VudHJ5IjoiQVIiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjotMzIuODUsImRldmljZUxvbiI6LTY4LjgxNjcsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMi4wLjUwMDUiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMi4xLTA0MWI2YTk2ZDI3OTU5OTk1Nzc1MzJhNDY1NDkwZmU2MjAyNjU3MjgiLCJjbGllbnRJRCI6IjczYzE4OGVkLTNmYTYtNGYxNi1hNWFlLTJhODA5YTQ4ZDkxOCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9NZW5kb3phIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1NTc4ODUxMCwianRpIjoiZWJkNGIyODYtNzcxMy00ZjBiLWFhMzAtM2EyYTE0NTQ4MDRjIiwiaWF0IjoxNjU1NzU5NzEwLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TnpOak1UZzRaV1F0TTJaaE5pMDBaakUyTFdFMVlXVXRNbUU0TURsaE5EaGtPVEU0In0.ivjFT9eX8nzzcFZS5dlza2n_cE2FFmNAAbCTpvoKRIM&masterJWTPassthrough=true
+#EXTINF:-1, PLUTO ANIME
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=6.2.1-041b6a96d2795999577532a465490fe620265728&app_name=web&clientDeviceType=0&clientID=73c188ed-3fa6-4f16-a5ae-2a809a48d918&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=73c188ed-3fa6-4f16-a5ae-2a809a48d918&deviceLat=-32.9204&deviceLon=-68.8293&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=102.0.5005&marketingRegion=VE&serverSideAds=true&sessionID=da9d3d0c-f0de-11ec-a215-0242ac110003&sid=da9d3d0c-f0de-11ec-a215-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZmZmI5OTlkLTM1YWMtNDYxYS1iOGQ3LWIyZmVkN2I4YjRlMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJkYTlkM2QwYy1mMGRlLTExZWMtYTIxNS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS44Mi4xMTQuMjIiLCJjaXR5IjoiR29kb3kgQ3J1eiIsInBvc3RhbENvZGUiOiI1NTAxIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTMyLjkyMDQsImRldmljZUxvbiI6LTY4LjgyOTMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMi4wLjUwMDUiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMi4xLTA0MWI2YTk2ZDI3OTU5OTk1Nzc1MzJhNDY1NDkwZmU2MjAyNjU3MjgiLCJjbGllbnRJRCI6IjczYzE4OGVkLTNmYTYtNGYxNi1hNWFlLTJhODA5YTQ4ZDkxOCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9NZW5kb3phIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1NTc4ODg0OCwianRpIjoiYmVhY2M3MzgtNGZhYi00NjRlLTkxZjEtY2Y4ZTUxNDcxMTY3IiwiaWF0IjoxNjU1NzYwMDQ4LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TnpOak1UZzRaV1F0TTJaaE5pMDBaakUyTFdFMVlXVXRNbUU0TURsaE5EaGtPVEU0In0.DGlolDvxaXI0mUizu9wDPF_IqyVt1ENy_gxUbWIfy7Y&masterJWTPassthrough=true
+#EXTINF:-1, Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+#EXTINF:-1, Pluto Cartoon HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?advertisingId=&appName=web&appVersion=6.2.1-041b6a96d2795999577532a465490fe620265728&app_name=web&clientDeviceType=0&clientID=73c188ed-3fa6-4f16-a5ae-2a809a48d918&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=73c188ed-3fa6-4f16-a5ae-2a809a48d918&deviceLat=-32.9204&deviceLon=-68.8293&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=102.0.5005&marketingRegion=VE&serverSideAds=true&sessionID=7a236036-f0de-11ec-884e-0242ac110003&sid=7a236036-f0de-11ec-884e-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZmZmI5OTlkLTM1YWMtNDYxYS1iOGQ3LWIyZmVkN2I4YjRlMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3YTIzNjAzNi1mMGRlLTExZWMtODg0ZS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS44Mi4xMTQuMjIiLCJjaXR5IjoiR29kb3kgQ3J1eiIsInBvc3RhbENvZGUiOiI1NTAxIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTMyLjkyMDQsImRldmljZUxvbiI6LTY4LjgyOTMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMi4wLjUwMDUiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMi4xLTA0MWI2YTk2ZDI3OTU5OTk1Nzc1MzJhNDY1NDkwZmU2MjAyNjU3MjgiLCJjbGllbnRJRCI6IjczYzE4OGVkLTNmYTYtNGYxNi1hNWFlLTJhODA5YTQ4ZDkxOCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9NZW5kb3phIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1NTc4ODY4NiwianRpIjoiOTU4MDJhYjAtYjgxOS00YmVmLWJjMTgtMDE4ZmU3YTkxYjY0IiwiaWF0IjoxNjU1NzU5ODg2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TnpOak1UZzRaV1F0TTJaaE5pMDBaakUyTFdFMVlXVXRNbUU0TURsaE5EaGtPVEU0In0.QVtzw0AeT2Cowcuere2sMTDHcipfpA-Bx3MJ8dh_tWY&masterJWTPassthrough=true
+#EXTINF:-1, BOB ESPONJA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, Universal tv  HD
+https://cloud3.streaminglivehd.com:1936/universfaller/universfaller/chunklist_w363910197.m3u8
+#EXTINF:-1, Multizona tv  HD
+https://cloudvideo.servers10.com:8081/8068/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TVS RETRO | SD
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1, PAKA PAKA
+https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w1690172172.m3u8
+#EXTINF:-1, PLUTO ANIMALES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=6.2.1-041b6a96d2795999577532a465490fe620265728&app_name=web&clientDeviceType=0&clientID=73c188ed-3fa6-4f16-a5ae-2a809a48d918&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=73c188ed-3fa6-4f16-a5ae-2a809a48d918&deviceLat=-32.9204&deviceLon=-68.8293&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=102.0.5005&marketingRegion=VE&serverSideAds=true&sessionID=710bca97-f0df-11ec-991f-0242ac110003&sid=710bca97-f0df-11ec-991f-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZmZmI5OTlkLTM1YWMtNDYxYS1iOGQ3LWIyZmVkN2I4YjRlMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3MTBiY2E5Ny1mMGRmLTExZWMtOTkxZi0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS44Mi4xMTQuMjIiLCJjaXR5IjoiR29kb3kgQ3J1eiIsInBvc3RhbENvZGUiOiI1NTAxIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTMyLjkyMDQsImRldmljZUxvbiI6LTY4LjgyOTMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMi4wLjUwMDUiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMi4xLTA0MWI2YTk2ZDI3OTU5OTk1Nzc1MzJhNDY1NDkwZmU2MjAyNjU3MjgiLCJjbGllbnRJRCI6IjczYzE4OGVkLTNmYTYtNGYxNi1hNWFlLTJhODA5YTQ4ZDkxOCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9NZW5kb3phIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1NTc4OTEwMCwianRpIjoiZGZmNWNmNjQtODQ5Yy00ZWRlLWE3ZDktNWQ0NTZkNDQzNmM1IiwiaWF0IjoxNjU1NzYwMzAwLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TnpOak1UZzRaV1F0TTJaaE5pMDBaakUyTFdFMVlXVXRNbUU0TURsaE5EaGtPVEU0In0.RRHzmGJzBrPHgK3mUn8cn6mu5SnvQcVo6nfw8a20CYc&masterJWTPassthrough=true
+#EXTINF:-1, VOICE RADIO TV
+https://cloudvideo.servers10.com:8081/8198/index.m3u8
+#EXTINF:-1,FRECUENCIA TV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1,MEGA CYNE TV
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1, Novelismas Tv HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1yn-&amp;did=061513a5c89470bb73b80acf56298707&amp;app_bundle=com.canela.ott&amp;app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&amp;app_domain=canela.tv&amp;app_name=canelatv&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=canelatv&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=en&amp;consent=1&amp;gdpr=0&amp;site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dcanalesepg&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_0=&amp;custom_param_1=desktop&amp;custom_param_2=&amp;custom_param_3=&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%2520America&amp;timestamp=1668800459&amp;id=29260&amp;ip=157.100.59.47&amp;override_expiration=1500&amp;deliveryProfileId=23762&amp;sign=ktwR1dR1KmcCwcOFlOK5RDzUWH8EGwWExRFSUQ6%2F7K8%3D
+#EXTINF:-1, PlUTO ACCION SD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=6.2.1-041b6a96d2795999577532a465490fe620265728&app_name=web&clientDeviceType=0&clientID=73c188ed-3fa6-4f16-a5ae-2a809a48d918&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=73c188ed-3fa6-4f16-a5ae-2a809a48d918&deviceLat=-32.9204&deviceLon=-68.8293&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=102.0.5005&marketingRegion=VE&serverSideAds=true&sessionID=7049fb30-f0dc-11ec-991f-0242ac110003&sid=7049fb30-f0dc-11ec-991f-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZmZmI5OTlkLTM1YWMtNDYxYS1iOGQ3LWIyZmVkN2I4YjRlMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3MDQ5ZmIzMC1mMGRjLTExZWMtOTkxZi0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS44Mi4xMTQuMjIiLCJjaXR5IjoiR29kb3kgQ3J1eiIsInBvc3RhbENvZGUiOiI1NTAxIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTMyLjkyMDQsImRldmljZUxvbiI6LTY4LjgyOTMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMi4wLjUwMDUiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMi4xLTA0MWI2YTk2ZDI3OTU5OTk1Nzc1MzJhNDY1NDkwZmU2MjAyNjU3MjgiLCJjbGllbnRJRCI6IjczYzE4OGVkLTNmYTYtNGYxNi1hNWFlLTJhODA5YTQ4ZDkxOCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9NZW5kb3phIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1NTc4NzgxMCwianRpIjoiMGJmNGMwMWQtYTVjMS00YmFkLTg4YzQtOTBhMTkzNGQ2NjJkIiwiaWF0IjoxNjU1NzU5MDEwLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TnpOak1UZzRaV1F0TTJaaE5pMDBaakUyTFdFMVlXVXRNbUU0TURsaE5EaGtPVEU0In0.qUlJJg03pqctHnPJwifhTh-tiq5Y8cuEX-zR4zGmDCw&masterJWTPassthrough=true
+#EXTINF:-1, Pluto Estelar
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=6.2.1-041b6a96d2795999577532a465490fe620265728&app_name=web&clientDeviceType=0&clientID=73c188ed-3fa6-4f16-a5ae-2a809a48d918&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=73c188ed-3fa6-4f16-a5ae-2a809a48d918&deviceLat=-32.9204&deviceLon=-68.8293&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=102.0.5005&marketingRegion=VE&serverSideAds=true&sessionID=4845bff9-f0dd-11ec-817d-0242ac110003&sid=4845bff9-f0dd-11ec-817d-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZmZmI5OTlkLTM1YWMtNDYxYS1iOGQ3LWIyZmVkN2I4YjRlMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI0ODQ1YmZmOS1mMGRkLTExZWMtODE3ZC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS44Mi4xMTQuMjIiLCJjaXR5IjoiR29kb3kgQ3J1eiIsInBvc3RhbENvZGUiOiI1NTAxIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTMyLjkyMDQsImRldmljZUxvbiI6LTY4LjgyOTMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMi4wLjUwMDUiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMi4xLTA0MWI2YTk2ZDI3OTU5OTk1Nzc1MzJhNDY1NDkwZmU2MjAyNjU3MjgiLCJjbGllbnRJRCI6IjczYzE4OGVkLTNmYTYtNGYxNi1hNWFlLTJhODA5YTQ4ZDkxOCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9NZW5kb3phIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1NTc4ODE3MywianRpIjoiNGVjMTk2NmEtZjQ3Mi00MGZiLWI4ZmYtZWEwZTZmMmNlZDdkIiwiaWF0IjoxNjU1NzU5MzczLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TnpOak1UZzRaV1F0TTJaaE5pMDBaakUyTFdFMVlXVXRNbUU0TURsaE5EaGtPVEU0In0.wFMlybh5cvb5J0SMSEti-_5v66-TYo8PkL5ph3HUIZI&masterJWTPassthrough=true
+#EXTINF:-1, ITV SPORTS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+#EXTINF:-1, PLUTO TERROR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=6.2.1-041b6a96d2795999577532a465490fe620265728&app_name=web&clientDeviceType=0&clientID=73c188ed-3fa6-4f16-a5ae-2a809a48d918&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=73c188ed-3fa6-4f16-a5ae-2a809a48d918&deviceLat=-32.9204&deviceLon=-68.8293&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=102.0.5005&marketingRegion=VE&serverSideAds=true&sessionID=a546d595-f0dd-11ec-9be6-0242ac110003&sid=a546d595-f0dd-11ec-9be6-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZmZmI5OTlkLTM1YWMtNDYxYS1iOGQ3LWIyZmVkN2I4YjRlMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJhNTQ2ZDU5NS1mMGRkLTExZWMtOWJlNi0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS44Mi4xMTQuMjIiLCJjaXR5IjoiR29kb3kgQ3J1eiIsInBvc3RhbENvZGUiOiI1NTAxIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTMyLjkyMDQsImRldmljZUxvbiI6LTY4LjgyOTMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMi4wLjUwMDUiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMi4xLTA0MWI2YTk2ZDI3OTU5OTk1Nzc1MzJhNDY1NDkwZmU2MjAyNjU3MjgiLCJjbGllbnRJRCI6IjczYzE4OGVkLTNmYTYtNGYxNi1hNWFlLTJhODA5YTQ4ZDkxOCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9NZW5kb3phIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1NTc4ODMyOSwianRpIjoiMTE5MjdkYWMtYjZkZi00M2JhLTllNDMtYzg0ZjhlNjg5ZjZiIiwiaWF0IjoxNjU1NzU5NTI5LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TnpOak1UZzRaV1F0TTJaaE5pMDBaakUyTFdFMVlXVXRNbUU0TURsaE5EaGtPVEU0In0.Bi_89be8UlwmNUYebEObAfG-1s_Ab6sh58BetU8q7Z0&masterJWTPassthrough=true
+#EXTINF:-1, CORDOVA TV
+https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
+#EXTINF:-1, LOGOS TV
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
+#EXTINF:-1, IBEROAMERICA TV
+https://limited39.todostreaming.es/live/salome-livestream.m3u8
+#EXTINF:-1,Miami Tv Latino
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist_w1804858925_b1896000.m3u8
+#EXTINF:-1,ESTRELLA TV
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1,CINESTRELLA
+https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg00567-estrellamedia-cineestrella-lgus/cb57381b6570678a84cb3a64cef64482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ac734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f8e258468969f7e2014b972810fa83439c8101ead181538341d727f5459a91f68edb43d1e4fa598b6f18f1b639581fbca33bf4ec5ea3db9e662bee0942242d74966d17632c46eb744c49ecf78b9e68fa01c78a24fb007ddb52df27d641f4ac2221e97ed17fd4bf737f6a919bf7fb2b5681e8a598f23632f241eea3f0dc626990fa2eb526a362f52d31319cf1ca5bd18d45d6fe148cba6d122fd3d16bafdde3d3a1e0d60aab2cc491a0c37d5a18374d42a74db29668ec2cdf53a1da5c740f1a0afecc158cadf16a1d4e03c68c57df165b9ede8888d0477be9680955e565960a54398264222cab7db9a93d6a883403ca606eac1666d63089d246c2aed5e1092ca69e96128d08c1814a83a64cf9177f336494fd2358494907a0cd6e1f3f74c605a993fde8790d0ffbe48f99e4562b0c2d184206e9b5be5e98557efc9481ea0bfef0ac1551d51a/79/1280x720_2657019/index.m3u8
+#EXTINF:-1,CINESTRELLA
+https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg00567-estrellamedia-cineestrella-lgus/cb57381b6570678a84cb3a64cef64482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ac734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f8e258468969f7e2014b972810fa83439c8101ead181538341d727f5459a91f68edb43d1e4fa598b6f18f1b639581fbca33bf4ec5ea3db9e662bee0942242d74966d17632c46eb744c49ecf78b9e68fa01c78a24fb007ddb52df27d641f4ac2221e97ed17fd4bf737f6a919bf7fb2b5681e8a598f23632f241eea3f0dc626990fa2eb526a362f52d31319cf1ca5bd18d45d6fe148cba6d122fd3d16bafdde3d3a1e0d60aab2cc491a0c37d5a18374d42a74db29668ec2cdf53a1da5c740f1a0afecc158cadf16a1d4e03c68c57df165b9ede8888d0477be9680955e565960a54398264222cab7db9a93d6a883403ca606eac1666d63089d246c2aed5e1092ca69e96128d08c1814a83a64cf9177f336494fd2358494907a0cd6e1f3f74c605a993fde8790d0ffbe48f99e4562b0c2d184206e9b5be5e98557efc9481ea0bfef0ac1551d51a/79/1280x720_2657019/index.m3u8
+#EXTINF:-1,Bolivia tv | SD
+https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
+#EXTINF:-1,A&E
+http://bgtv.site/play/23-800.php?a=178&token=unwell
+#EXTINF:-1,A+
+http://bgtv.site/play/23-800.php?a=113&token=unwell
+#EXTINF:-1,ABC (USA)
+http://bgtv.site/play/23-800.php?a=159&token=unwell
+#EXTINF:-1,ABC News
+http://bgtv.site/play/23-800.php?a=110&token=unwell
+#EXTINF:-1,Animal Planet
+http://bgtv.site/play/23-800.php?a=75&token=unwell
+#EXTINF:-1,AZ Corazon
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.tv&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_1=desktop&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%20America&amp;custom_param_0=&amp;custom_param_2=&amp;custom_param_3=
+#EXTINF:-1, AZTCA INTERNACIONAL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=e4ce72c53dd087e8c9bcf30074bacd21&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1691083049&id=10411&ip=45.224.152.74&override_expiration=1500&sign=zK1PIBs6E13FQXc%2BgxeY9vC8IBdfXx0eJlxNxUmh2Vw%3D
+#EXTINF:-1,Baby First
+http://bgtv.site/play/23-800.php?a=150&token=unwell
+#EXTINF:-1,Baby TV
+http://bgtv.site/play/23-800.php?a=60&token=unwell
+#EXTINF:-1,BBC America (USA)
+http://bgtv.site/play/23-800.php?a=166&token=unwell
+#EXTINF:-1,Bein Sports Esp
+http://bgtv.site/play/23-800.php?a=176&token=unwell
+#EXTINF:-1,Bravo (USA)
+http://bgtv.site/play/23-800.php?a=192&token=unwell
+#EXTINF:-1,CBS Sports Network (USA)
+http://bgtv.site/play/23-800.php?a=161&token=unwell
+#EXTINF:-1,CNN Internacional
+http://bgtv.site/play/23-800.php?a=92&token=unwell
+#EXTINF:-1,CO: Caracol
+http://bgtv.site/play/23-800.php?a=157&token=unwell
+#EXTINF:-1,CO: Caracol
+http://bgtv.site/play/23-800.php?a=226&token=unwell
+#EXTINF:-1,DAZN 3
+http://bgtv.site/play/23-800.php?a=205&token=unwell
+#EXTINF:-1,DAZN 4
+http://bgtv.site/play/23-800.php?a=211&token=unwell
+#EXTINF:-1,Dicovery Turbo
+http://bgtv.site/play/23-800.php?a=230&token=unwell
+#EXTINF:-1,Discovery Kids
+http://bgtv.site/play/23-800.php?a=210&token=unwell
+#EXTINF:-1,Discovery Science
+http://bgtv.site/play/23-800.php?a=216&token=unwell
+#EXTINF:-1,Discovery Theater
+http://bgtv.site/play/23-800.php?a=217&token=unwell
+#EXTINF:-1,Discovery TLC
+http://bgtv.site/play/23-800.php?a=124&token=unwell
+#EXTINF:-1,Discovery Turbo
+http://bgtv.site/play/23-800.php?a=229&token=unwell
+#EXTINF:-1,El Gourmet
+http://bgtv.site/play/23-800.php?a=219&token=unwell
+#EXTINF:-1,ES: Antena 3
+http://bgtv.site/play/23-800.php?a=96&token=unwell
+#EXTINF:-1,ES: Movistar Drama
+http://bgtv.site/play/23-800.php?a=146&token=unwell
+#EXTINF:-1,ESPN (USA)
+http://bgtv.site/play/23-800.php?a=167&token=unwell
+#EXTINF:-1,ESPN
+http://bgtv.site/play/23-800.php?a=35&token=unwell
+#EXTINF:-1,ESPN 2
+http://bgtv.site/play/23-800.php?a=36&token=unwell
+#EXTINF:-1,ESPN 2 US
+http://bgtv.site/play/23-800.php?a=37&token=unwell
+#EXTINF:-1,Eurosport 2
+http://bgtv.site/play/23-800.php?a=141&token=unwell
+#EXTINF:-1,Eurosports
+http://bgtv.site/play/23-800.php?a=206&token=unwell
+#EXTINF:-1,FOX (USA)
+http://bgtv.site/play/23-800.php?a=168&token=unwell
+#EXTINF:-1,Fox Deportes
+http://bgtv.site/play/23-800.php?a=38&token=unwell
+#EXTINF:-1,Fox Sports Premium
+http://bgtv.site/play/23-800.php?a=69&token=unwell
+#EXTINF:-1,Fox Sport (USA)
+http://bgtv.site/play/23-800.php?a=221&token=unwell
+#EXTINF:-1,Fox Sport 2 (USA)
+http://bgtv.site/play/23-800.php?a=222&token=unwell
+#EXTINF:-1,Fox Sports
+http://bgtv.site/play/23-800.php?a=40&token=unwell
+#EXTINF:-1,Fox Sports
+http://bgtv.site/play/23-800.php?a=42&token=unwell
+#EXTINF:-1,FX
+http://bgtv.site/play/23-800.php?a=70&token=unwell
+#EXTINF:-1,Galavision (USA)
+http://bgtv.site/play/23-800.php?a=174&token=unwell
+#EXTINF:-1,Garage TV
+http://bgtv.site/play/23-800.php?a=184&token=unwell
+#EXTINF:-1,Golden
+http://bgtv.site/play/23-800.php?a=181&token=unwell
+#EXTINF:-1,GolTV
+http://bgtv.site/play/23-800.php?a=208&token=unwell
+#EXTINF:-1,HBO 2
+http://bgtv.site/play/23-800.php?a=72&token=unwell
+#EXTINF:-1,HBO 2 (USA)
+http://bgtv.site/play/23-800.php?a=223&token=unwell
+#EXTINF:-1,HBO Family
+http://bgtv.site/play/23-800.php?a=73&token=unwell
+#EXTINF:-1,HBO Family (USA)
+http://bgtv.site/play/23-800.php?a=224&token=unwell
+#EXTINF:-1,HBO Plus
+http://bgtv.site/play/23-800.php?a=215&token=unwell
+#EXTINF:-1,HBO Signature
+http://bgtv.site/play/23-800.php?a=182&token=unwell
+#EXTINF:-1,HGTV (USA)
+http://bgtv.site/play/23-800.php?a=225&token=unwell
+#EXTINF:-1,Investigation Discovery
+http://bgtv.site/play/23-800.php?a=220&token=unwell
+#EXTINF:-1,IZZI Afizzionados
+http://bgtv.site/play/23-800.php?a=43&token=unwell
+#EXTINF:-1,Lifetime (USA)
+http://bgtv.site/play/23-800.php?a=193&token=unwell
+#EXTINF:-1,Milenio TV
+http://bgtv.site/play/23-800.php?a=88&token=unwell
+#EXTINF:-1,MLB NETWORK (USA)
+http://bgtv.site/play/23-800.php?a=188&token=unwell
+#EXTINF:-1,MTV Hits
+http://bgtv.site/play/23-800.php?a=94&token=unwell
+#EXTINF:-1,Multimedios MTY
+http://bgtv.site/play/23-800.php?a=89&token=unwell
+#EXTINF:-1,NBC NY (USA)
+http://bgtv.site/play/23-800.php?a=164&token=unwell
+#EXTINF:-1,NBC Universo (USA)
+http://bgtv.site/play/23-800.php?a=165&token=unwell
+#EXTINF:-1,Nick Jr
+http://bgtv.site/play/23-800.php?a=64&token=unwell
+#EXTINF:-1,Showtime (USA)
+http://bgtv.site/play/23-800.php?a=189&token=unwell
+#EXTINF:-1,Sony
+http://bgtv.site/play/23-800.php?a=53&token=unwell
+#EXTINF:-1,Starz (USA)
+http://bgtv.site/play/23-800.php?a=190&token=unwell
+#EXTINF:-1,SYFY
+http://bgtv.site/play/23-800.php?a=80&token=unwell
+#EXTINF:-1,Telecinco
+http://bgtv.site/play/23-800.php?a=203&token=unwell
+#EXTINF:-1,Telecinco 2
+http://bgtv.site/play/23-800.php?a=207&token=unwell
+#EXTINF:-1,Telehit
+http://bgtv.site/play/23-800.php?a=95&token=unwell
+#EXTINF:-1,Telemundo
+http://bgtv.site/play/23-800.php?a=155&token=unwell
+#EXTINF:-1,Televisa MTY
+http://bgtv.site/play/23-800.php?a=143&token=unwell
+#EXTINF:-1,Tennis Channel (USA)
+http://bgtv.site/play/23-800.php?a=171&token=unwell
+#EXTINF:-1,TNT
+http://bgtv.site/play/23-800.php?a=57&token=unwell
+#EXTINF:-1,TNT (USA)
+http://bgtv.site/play/23-800.php?a=172&token=unwell
+#EXTINF:-1,Toros TV
+http://bgtv.site/play/23-800.php?a=46&token=unwell
+#EXTINF:-1,UFC TV
+http://bgtv.site/play/23-800.php?a=47&token=unwell
+#EXTINF:-1,Univision (USA)
+http://bgtv.site/play/23-800.php?a=173&token=unwell
+#EXTINF:-1,Warner Channel
+http://bgtv.site/play/23-800.php?a=59&token=unwell
+#EXTINF:-1,Terremoto Ártico movies| HD
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_8fn3peni/format/applehttp/protocol/https/flavorIds/1_u5ls3ccf,1_t4lmpmuv,1_e5bikcef,1_ak4nlufr,1_dlx1z10h,1_5xhr8zdp/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1682477646&amp;id=107&amp;ip=45.224.152.74&amp;override_expiration=1500&amp;sign=uy0tQgY8ICTN1ugeF3xcwM4%2BzfqaLM3mJCFYO%2FDe7R0%3D&amp;playSessionId=f8c46347-f827-63ba-f46c-799fdf90d6ea:a213a73c-1601-17d2-db9a-4b87f058c3ec&amp;referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL3RlcnJlbW90by1hcnRpY28=&amp;clientTag=html5:v7.61
+#EXTINF:-1,CHUCKY  | SD
+https://is.gd/fDEYM2
+#EXTINF:-1,Hansel y Grete movies| (HD
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_jsaw4vy3/format/applehttp/protocol/https/flavorIds/1_5km6q5i6,1_t72olw41,1_dwilknyq,1_ngdt4ja6,1_vlcpc7up,1_hlhjmtcj/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1672242841&amp;id=2926&amp;ip=157.100.59.47&amp;override_expiration=1500&amp;sign=oAttZ5UiwSkHsPY8ipnJjFZXv4Y9ETkaFZwKltJbMio%3D&amp;playSessionId=70be76fc-fa33-4fac-fd1d-25f4614f0eef:3a58afe0-e9c1-ae0d-b305-5cf29be74a1c&amp;referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL2hhbnNlbC15LWdyZXRlbA==&amp;clientTag=html5:v7.56
+#EXTINF:-1,Policia del Futuro movies| (HD
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_lrkxtsg6/format/applehttp/protocol/https/flavorIds/1_8gsovft3,1_269qrewm,1_eheoi1wy,1_967x5hrg,1_ascptzrh,1_gxsqmml7,1_c0iwqrtn/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1672159646&amp;id=6310&amp;ip=157.100.59.47&amp;override_expiration=1500&amp;sign=8ufm%2BRJ7r5pDOKMx9PDSpadG6Mhty68l4o%2BTSKwHQRU%3D&amp;playSessionId=e2c4ca47-69ba-6ff7-21c1-abf6337dd44e:cfe59012-9926-add8-f9d3-8a418ff494da&amp;referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL3RpbWVjb3AtcG9saWNpYS1kZWwtZnV0dXJv&amp;clientTag=html5:v7.56
+#EXTINF:-1,El Cuervo 3 movies| (HD)
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_pdd1dvc6/format/applehttp/protocol/https/flavorIds/1_e441qelm,1_nkwd1fs4,1_d8gae1n7,1_7jf8uf7f,1_6bkuqw1s,1_48hcg0kw,1_u4fhmrie/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1672160559&amp;id=5943&amp;ip=157.100.59.47&amp;override_expiration=1500&amp;sign=sLzPd1Al4FTwFsrQ%2BBGSHQfaYMsv4249Ja8%2B5AZ0yO0%3D&amp;playSessionId=b51f3a58-edce-009c-4f26-f053e4f8ec97:6461a2d4-5c03-3f12-a9d3-88fb77f3d882&amp;referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL2VsLWN1ZXJ2by0z&amp;clientTag=html5:v7.56
+#EXTINF:-1,El monje movies| HD
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_osi3zij8/format/applehttp/protocol/https/flavorIds/1_ze0hewb0,1_yoe7r29m,1_loycjvqn,1_jt2n7gk3,1_n2n2xqey,1_j1rlhl3f,1_5qq4wr2a/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1672242951&amp;id=6282&amp;ip=157.100.59.47&amp;override_expiration=1500&amp;sign=SP0thSxR97yeaStM3VwxFZIK0f9tp%2BzWX8ZeEylbRCo%3D&amp;playSessionId=f04e79e3-c867-99d7-4061-d236e4bad6d4:2a771962-4e90-4d88-8793-5881a47594b8&amp;referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL2VsLW1vbmpl&amp;clientTag=html5:v7.56
+#EXTINF:-1,Zona 414 | (HD)
+https://wvpmla.sn.files.1drv.com/y4m_w_wuU9SUT7qhhBz_AAm_QJD-nyACppTmrheR3WnzMnmxfaoL58zkz7qRzoliBaSodtemhdQFcZangmAld9QQuiBZvfzDCewFFyB_6CWJaoB1TIHUkjF2x_rAACVbHwzuRlmGI_MQM3JHs3yCMdIsk3HMwTKarMJT6XZQDiqFNEmU-TEiHG1b3CNkuQVKPPRXEJaXS3ZqlQc-8A6BEBhYg?
+#EXTINF:-1,Zunbecia movies| HD
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_9n1wt2hq/format/applehttp/protocol/https/flavorIds/1_6mdbd9qx,1_y4ttoqk1,1_zunkew17,1_szuam83z,1_yz7mc9kp,1_hjkkwivn,1_j3rp0818/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1672067281&amp;id=621&amp;ip=157.100.59.47&amp;override_expiration=1500&amp;sign=PNyFyEhHLntkRdW1wnhmJgLSYZwOABCi%2BxzGVvnMY6w%3D&amp;playSessionId=b5870f77-a06a-fae6-f9cd-8cb140eddc1d:a67ab137-8d64-6004-fef8-a8c687369ded&amp;referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL3phbWJlemlh&amp;clientTag=html5:v7.56
+#EXTINF:-1,Gato con Botas movies| HD
+https://xppmla.sn.files.1drv.com/y4mBn_0yrZP8uTP9A1Nq7uhVH3pY3Iua3dptTu8zsV88hvvbiTBW1RXRJSB6K61wIjm4Nb4-usz0aG9rNeHNmgng4bRwp5gWBwmlxLmmECq4gvdnUxHjo4It1-NyNPWLb_Gtx0qxkswx-tFYpiSzLltD9gtB4YtzLFeS3-MB05h_gpG-DvMNZ7EnEXZ_f1_MAjgKDSm4crC9_90tcr0pdmXSQ?
+#EXTINF:-1,El poder del talismán (2003)
+http://vod.tuxchannel.mx/peliculas/720/the%20medallion.mkv
+#EXTINF:-1,Maze Runner 1 (2014)
+http://vod.tuxchannel.mx/peliculas/720/the%20maze%20runner.mkv
+#EXTINF:-1,El llanero solitario (2012)
+http://vod.tuxchannel.mx/peliculas/720/the%20lone%20ranger.mkv
+#EXTINF:-1,El último samurái (2003)
+http://vod.tuxchannel.mx/peliculas/720/the%20last%20samurai.mkv
+#EXTINF:-1,El bosque maldito (2019)
+http://vod.tuxchannel.mx/peliculas/720/the%20hole%20in%20the%20ground%202019.mkv
+#EXTINF:-1,Qué pasó ayer? 1 (2009)
+http://vod.tuxchannel.mx/peliculas/720/the%20hangover.mkv
+#EXTINF:-1,Que pasó ayer? 3 (2013)
+http://vod.tuxchannel.mx/peliculas/720/the%20hangover%20part%20III.mkv
+#EXTINF:-1,Qué pasó ayer? 2 (2011)
+http://vod.tuxchannel.mx/peliculas/720/the%20hangover%20part%20II.mkv
+#EXTINF:-1,Los mercenarios 1 (2010)
+http://vod.tuxchannel.mx/peliculas/720/the%20expendables.mkv
+#EXTINF:-1,Los mercenarios 3 (2014)
+http://vod.tuxchannel.mx/peliculas/720/the%20expendables%203.mkv
+#EXTINF:-1,Los muertos no mueren (2019)
+http://vod.tuxchannel.mx/peliculas/720/the%20dead%20dont%20die%202019.mkv
+#EXTINF:-1,Crónicas de Navidad 2 (2020)
+http://vod.tuxchannel.mx/peliculas/720/the%20christmas%20chronicles%202%202020.mkv
+#EXTINF:-1,El libro de Eli (2010)
+http://vod.tuxchannel.mx/peliculas/720/the%20book%20ok%20eli.mkv
+#EXTINF:-1,El Hombre Araña 4 (2012)
+http://vod.tuxchannel.mx/peliculas/720/the%20amazing%20spiderman.mkv
+#EXTINF:-1,Terremoto:la falla de San Andrés (2015)
+http://vod.tuxchannel.mx/peliculas/720/terretomo%20la%20falla%20de%20san%20andres.mkv
+#EXTINF:-1,Tenet (2020)
+http://vod.tuxchannel.mx/peliculas/720/tenet%202020.mkv
+#EXTINF:-1,Saw 9 (2021)
+http://vod.tuxchannel.mx/peliculas/720/spiral%20from%20the%20book%20of%20saw%202021.mkv
+#EXTINF:-1,El Hombre Araña 1 (2002)
+http://vod.tuxchannel.mx/peliculas/720/spiderman.mkv
+#EXTINF:-1,El Hombre Araña 6 (2019)
+http://vod.tuxchannel.mx/peliculas/720/spider-man%20far%20from%20home%202019.mkv
+#EXTINF:-1,El Hombre Araña 3 (2007)
+http://vod.tuxchannel.mx/peliculas/720/spiderman%203.mkv
+#EXTINF:-1,El Hombre Araña 2 (2004)
+http://vod.tuxchannel.mx/peliculas/720/spiderman%202.mkv
+#EXTINF:-1,El Hombre Araña 5 (2017)
+http://vod.tuxchannel.mx/peliculas/720/spider%20man%20homecoming.mkv
+#EXTINF:-1,8 Minutos Antes De Morir (2011)
+http://vod.tuxchannel.mx/peliculas/720/source%20code.mkv
+#EXTINF:-1,Código Fuente (2011)
+http://vod.tuxchannel.mx/peliculas/720/source%20code.mkv
+#EXTINF:-1,Sonic la película (2020)
+http://vod.tuxchannel.mx/peliculas/720/sonic%20the%20hedgehog%202020.mkv
+#EXTINF:-1,Silent Hill 1 (2006)
+http://vod.tuxchannel.mx/peliculas/720/silent%20hill.mkv
+#EXTINF:-1,Silent Hill 2 (2012)
+http://vod.tuxchannel.mx/peliculas/720/silent%20hill%20revelation.mkv
+#EXTINF:-1,Nos vemos ayer (2019)
+http://vod.tuxchannel.mx/peliculas/720/see%20you%20yesterday%202019.mkv
+#EXTINF:-1,Scream 1 (1996)
+http://vod.tuxchannel.mx/peliculas/720/scream%20grita%20antes%20de%20morir.mkv
+#EXTINF:-1,Scream 4 (2011)
+http://vod.tuxchannel.mx/peliculas/720/scream%204.mkv
+#EXTINF:-1,Scream 3 (2000)
+http://vod.tuxchannel.mx/peliculas/720/scream%203%20la%20mascara%20de%20la%20muerte.mkv
+#EXTINF:-1,Scream 2 (1997)
+http://vod.tuxchannel.mx/peliculas/720/scream%202%20grita%20y%20vuelve%20a%20gritar.mkv
+#EXTINF:-1,Scary Movie (2000)
+http://vod.tuxchannel.mx/peliculas/720/scary%20movie.mkv
+#EXTINF:-1,Saw 7 (2010)
+http://vod.tuxchannel.mx/peliculas/720/saw%20VII.mkv
+#EXTINF:-1,Saw 6 (2009)
+http://vod.tuxchannel.mx/peliculas/720/saw%20VI.mkv
+#EXTINF:-1,Saw 5 (2008)
+http://vod.tuxchannel.mx/peliculas/720/saw%20V.mkv
+#EXTINF:-1,Saw 4 (2007)
+http://vod.tuxchannel.mx/peliculas/720/saw%20IV.mkv
+#EXTINF:-1,Saw 3 (2006)
+http://vod.tuxchannel.mx/peliculas/720/saw%20III.mkv
+#EXTINF:-1,Saw 2 (2005)
+http://vod.tuxchannel.mx/peliculas/720/saw%20II.mkv
+#EXTINF:-1,Saw 1 (2004)
+http://vod.tuxchannel.mx/peliculas/720/saw%20I.mkv
+#EXTINF:-1,Riddick 1 (2013)
+http://vod.tuxchannel.mx/peliculas/720/riddick.mkv
+#EXTINF:-1,Resident Evil: Bienvenidos a Raccoon City (2021)
+http://vod.tuxchannel.mx/peliculas/720/resident%20evil%20welcome%20to%20raccoon%20city%202021.mkv
+#EXTINF:-1,Ready Player One (2018)
+http://vod.tuxchannel.mx/peliculas/720/ready%20player%20one.mkv
+#EXTINF:-1,Rampage (2018)
+http://vod.tuxchannel.mx/peliculas/720/rampage.mkv
+#EXTINF:-1,Rambo: Last Blood (2019)
+http://vod.tuxchannel.mx/peliculas/720/rambo%20last%20blood%202019.mkv
+#EXTINF:-1,Quarantine 2 (2011)
+http://vod.tuxchannel.mx/peliculas/720/quarantine%202%20terminal%202011.mkv
+#EXTINF:-1,Power Rangers (2017)
+http://vod.tuxchannel.mx/peliculas/720/power%20rangers.mkv
+#EXTINF:-1,Pig (2021)
+http://vod.tuxchannel.mx/peliculas/720/pig%202021.mkv
+#EXTINF:-1,Ouija: El origen del mal (2016)
+http://vod.tuxchannel.mx/peliculas/720/ouija%20%20origin%20of%20evil.mkv
+#EXTINF:-1,Máquinas mortales (2018)
+http://vod.tuxchannel.mx/peliculas/720/mortal%20engines%202018.mkv
+#EXTINF:-1,Maze Runner 2 (2015)
+http://vod.tuxchannel.mx/peliculas/720/maze%20runner%20the%20scorch%20trials.mkv
+#EXTINF:-1,Maze Runner 3 (2018)
+http://vod.tuxchannel.mx/peliculas/720/maze%20runner%20the%20death%20cure.mkv
+#EXTINF:-1,Maléfica 2 (2019)
+http://vod.tuxchannel.mx/peliculas/720/maleficent%20mistress%20of%20evil%202019.mkv
+#EXTINF:-1,Looper: asesinos del futuro (2012)
+http://vod.tuxchannel.mx/peliculas/720/looper.mkv
+#EXTINF:-1,Life: vida inteligente (2017)
+http://vod.tuxchannel.mx/peliculas/720/life%20w.mkv
+#EXTINF:-1,El misterio de Soho (2021)
+http://vod.tuxchannel.mx/peliculas/720/last%20night%20in%20soho%202021.mkv
+#EXTINF:-1,Las crónicas de Narnia 3 (2010)
+http://vod.tuxchannel.mx/peliculas/720/las%20cronicas%20de%20narnia%20la%20travesia%20del%20viajero%20del%20alba.mkv
+#EXTINF:-1,Las crónicas de Narnia 2 (2008)
+http://vod.tuxchannel.mx/peliculas/720/las%20cronicas%20de%20narnia%20el%20principe%20caspian.mkv
+#EXTINF:-1,Jinete sin cabeza (1999)
+http://vod.tuxchannel.mx/peliculas/720/la%20leyenda%20del%20jinete%20sin%20cabeza.mkv
+#EXTINF:-1,La casa de las flores: la película (2021)
+http://vod.tuxchannel.mx/peliculas/720/la%20casa%20de%20las%20flores%20la%20pelicula%202021.mkv
+#EXTINF:-1,Kong: la Isla Calavera (2017)
+http://vod.tuxchannel.mx/peliculas/720/kong%20skull%20island.mkv
+#EXTINF:-1,Kill Command (2016)
+http://vod.tuxchannel.mx/peliculas/720/kill%20command.mkv
+#EXTINF:-1,John Carter (2012)
+http://vod.tuxchannel.mx/peliculas/720/john%20carter.mkv
+#EXTINF:-1,Saw 8 (2017)
+http://vod.tuxchannel.mx/peliculas/720/jigsaw.mkv
+#EXTINF:-1,IT 2 (2019)
+http://vod.tuxchannel.mx/peliculas/720/it%20chapter%20two%202019.mkv
+#EXTINF:-1,Invasión a la Tierra (2011)
+http://vod.tuxchannel.mx/peliculas/720/invancion%20del%20mundo%20batalla%20los%20angeles.mkv
+#EXTINF:-1,La cura siniestra (2016)
+http://vod.tuxchannel.mx/peliculas/720/a%20cure%20for%20wellness.mkv
+#EXTINF:-1,Un cuento de Navidad (1984)
+http://vod.tuxchannel.mx/peliculas/720/a%20christmas%20carol%201984.mkv
+#EXTINF:-1,4:44 El último día en la Tierra (2011)
+http://vod.tuxchannel.mx/peliculas/720/444%20last%20day%20on%20earth.mkv
+#EXTINF:-1,30 Días de oscuridad (2007)
+http://vod.tuxchannel.mx/peliculas/720/30%20days%20of%20night.mkv
+#EXTINF:-1,28 Dias Exterminio (2012)
+http://vod.tuxchannel.mx/peliculas/720/28%20days%20later.mkv
+#EXTINF:-1,Embaucadores (2023)
+http://208.88.245.85/nuevo/sharper.2023.dual.mkv
+#EXTINF:-1,Un paraíso peligroso (2023)
+http://208.88.245.85/nuevo/paradisecity.dual.2023.mkv
+#EXTINF:-1,Narvik (2023)
+http://208.88.245.85/nuevo/narvik.2023.dual.mkv
+#EXTINF:-1,Malcriados (2023)
+http://208.88.245.85/nuevo/malcriados.2023.latino.mkv
+#EXTINF:-1,El último baile de Magic Mike (2023)
+http://208.88.245.85/nuevo/magicmike.elultimo.baile.dual2023.mkv
+#EXTINF:-1,Llaman a la puerta (2023)
+http://208.88.245.85/nuevo/llaman.ala.puerta.dual.2023.mkv
+#EXTINF:-1,Historia de Honor (2022)
+http://208.88.245.85/nuevo/historia.dehonor.dual2023.mkv
+#EXTINF:-1,Bodas de plomo (2023)
+http://208.88.245.85/nuevo/bodas.deplomo.2023.dual.mkv
+#EXTINF:-1,Renfield: Asistente de vampiro (2023)
+http://208.88.245.81/nuevo/renfield.asistdvampiro.dual2023.mkv
+#EXTINF:-1, Dont breathe (2016)
+http://144.217.70.79/VODS-M/1080P/Dont%20breathe%202016.mp4
+#EXTINF:-1, Mr.right)
+http://144.217.70.79/VODS-M/1080P/Mr.right%202015.mp4
+#EXTINF:-1, Race (2016)
+http://144.217.70.79/VODS-M/1080P/Race%202016.mp4
+#EXTINF:-1, Blackhat (2015)
+http://144.217.70.79/VODS-M/1080P/Blackhat%202015.mp4
+#EXTINF:-1, The stanford prison experiment (2015)
+http://144.217.70.79/VODS-M/1080P/The%20stanford%20prison%20experiment%202015.mp4
+#EXTINF:-1, Tremors 5 bloodlines (2015)
+http://144.217.70.79/VODS-M/1080P/Tremors%205%20bloodlines%202015.mp4
+#EXTINF:-1, Joker (2019)
+http://144.217.70.79/VODS-M/1080P/Joker%202019.mp4
+#EXTINF:-1, Wicked Flying Monkeys (2015)
+http://144.217.70.79/VODS-M/1080P/Wicked%20Flying%20Monkeys%202015.mkv
+#EXTINF:-1, Lucy in the Sky (2019)
+http://144.217.70.79/VODS-M/1080P/Lucy%20in%20the%20Sky%202019.mp4
+#EXTINF:-1, Hard night falling (2019)
+http://144.217.70.79/VODS-M/1080P/Hard%20night%20falling%202019.mp4
+#EXTINF:-1, A christmas prince the royal baby (2019)
+http://144.217.70.79/VODS-M/1080P/A%20christmas%20prince%20the%20royal%20baby%202019.mp4
+#EXTINF:-1, Dont let go (2019)
+http://144.217.70.79/VODS-M/1080P/Dont%20let%20go%202019.mp4
+#EXTINF:-1, Catwoman (2004)
+http://144.217.70.79/VODS-M/1080P/Catwoman%202004.mkv
+#EXTINF:-1, Abominable (2019)
+http://144.217.70.79/VODS-M/1080P/Abominable%202019.mp4
+#EXTINF:-1, Patrick (2018)
+http://144.217.70.79/VODS-M/1080P/Patrick%202018.mp4
+#EXTINF:-1, Playmobil the movie (2019)
+http://144.217.70.79/VODS-M/1080P/Playmobil%20the%20movie%202019.mp4
+#EXTINF:-1, Ad Astra (2019)
+http://144.217.70.79/VODS-M/1080P/Ad%20Astra%202019.mp4
+#EXTINF:-1, 102 Dalmatians (2000)
+http://144.217.70.79/VODS-M/1080P/102%20Dalmatians%202000.mkv
+#EXTINF:-1, Mickeys Once Upon a Christmas (1999)
+http://144.217.70.79/VODS-M/1080P/Mickeys%20Once%20Upon%20a%20Christmas%201999.mkv
+#EXTINF:-1, Marriage story (2019)
+http://144.217.70.79/VODS-M/1080P/Marriage%20story%202019.mp4
+#EXTINF:-1, Platoon (1986)
+http://144.217.70.79/VODS-M/1080P/Platoon%201986.mkv
+#EXTINF:-1, Django (1966)
+http://144.217.70.79/VODS-M/1080P/Django%201966.mkv
+#EXTINF:-1, Diablo (2015)
+http://144.217.70.79/VODS-M/1080P/Diablo%202015.mkv
+#EXTINF:-1, Stray (2019)
+http://144.217.70.79/VODS-M/1080P/Stray%202019.mp4
+#EXTINF:-1, Hustlers (2019)
+http://144.217.70.79/VODS-M/1080P/Hustlers%202019.mp4
+#EXTINF:-1, Aliens (1986)
+http://144.217.70.79/VODS-M/1080P/Aliens%201986.mp4
+#EXTINF:-1, Once Upon a Time in Hollywood (2019)
+http://144.217.70.79/VODS-M/1080P/Once%20Upon%20a%20Time%20in%20Hollywood%202019.mp4
+#EXTINF:-1, It Chapter Two (2019)
+http://144.217.70.79/VODS-M/1080P/It%20Chapter%20Two%202019.mp4
+#EXTINF:-1, The irishman (2019)
+http://144.217.70.79/VODS-M/1080P/The%20irishman%202019.mp4
+#EXTINF:-1, Bird box (2018)
+http://144.217.70.79/VODS-M/1080P/Bird%20box%202018.mp4
+#EXTINF:-1, We the animals (2018)
+http://144.217.70.79/VODS-M/1080P/We%20the%20animals%202018.mp4
+#EXTINF:-1, 101 Dalmatians 2 Patchs London Adventure (2003)
+http://144.217.70.79/VODS-M/1080P/101%20Dalmatians%202%20Patchs%20London%20Adventure%202003.mkv
+#EXTINF:-1, Ready or not (2019)
+http://144.217.70.79/VODS-M/1080P/Ready%20or%20not%202019.mp4
+#EXTINF:-1, The knight before christmas (2019)
+http://144.217.70.79/VODS-M/1080P/The%20knight%20before%20christmas%202019.mp4
+#EXTINF:-1, The Goldfinch (2019)
+http://144.217.70.79/VODS-M/1080P/The%20Goldfinch%202019.mp4
+#EXTINF:-1, Let it snow (2019)
+http://144.217.70.79/VODS-M/1080P/Let%20it%20snow%202019.mp4
+#EXTINF:-1, House Arrest (2019)
+http://144.217.70.79/VODS-M/1080P/House%20Arrest%202019.mp4
+#EXTINF:-1, Alvin and the Chipmunks Chipwrecked (2011)
+http://144.217.70.79/VODS-M/1080P/Alvin%20and%20the%20Chipmunks%20Chipwrecked%202011.mkv
+#EXTINF:-1, Klaus (2019)
+http://144.217.70.79/VODS-M/1080P/Klaus%202019.mp4
+#EXTINF:-1, El Dorado (1967))
+http://144.217.70.79/VODS-M/1080P/El%20Dorado%20(1967).mp4
+#EXTINF:-1, A Christmas Carol (2009)
+http://144.217.70.79/VODS-M/1080P/A%20Christmas%20Carol%202009.mp4
+#EXTINF:-1, Earthquake bird (2019)
+http://144.217.70.79/VODS-M/1080P/Earthquake%20bird%202019.mp4
+#EXTINF:-1, The hummingbird project (2018)
+http://144.217.70.79/VODS-M/1080P/The%20hummingbird%20project%202018.mp4
+#EXTINF:-1, Dora and the Lost City of Gold (2019)
+http://144.217.70.79/VODS-M/1080P/Dora%20and%20the%20Lost%20City%20of%20Gold%202019.mp4
+#EXTINF:-1, A private war (2018)
+http://144.217.70.79/VODS-M/1080P/A%20private%20war%202018.mp4
+#EXTINF:-1, Extremely wicked shockingly evil and vile (2019)
+http://144.217.70.79/VODS-M/1080P/Extremely%20wicked%20shockingly%20evil%20and%20vile%202019.mp4
+#EXTINF:-1, Killers anonymous (2019)
+http://144.217.70.79/VODS-M/1080P/Killers%20anonymous%202019.mp4
+#EXTINF:-1, The Ladybug (2018)
+http://144.217.70.79/VODS-M/1080P/The%20Ladybug%202018.mp4
+#EXTINF:-1, Scary stories to tell in the dark (2019)
+http://144.217.70.79/VODS-M/1080P/Scary%20stories%20to%20tell%20in%20the%20dark%202019.mp4
+#EXTINF:-1, Lying and Stealing (2019)
+http://144.217.70.79/VODS-M/1080P/Lying%20and%20Stealing%20%202019.mp4
+#EXTINF:-1, Good boys (2019)
+http://144.217.70.79/VODS-M/1080P/Good%20boys%202019.mp4
+#EXTINF:-1, Crypto (2019)
+http://144.217.70.79/VODS-M/1080P/Crypto%202019.mp4
+#EXTINF:-1, The king (2019)
+http://144.217.70.79/VODS-M/1080P/The%20king%202019.mp4
+#EXTINF:-1, Three Violent People (1956)
+http://144.217.70.79/VODS-M/1080P/Three%20Violent%20People%201956.mkv
+#EXTINF:-1, The art of racing in the rain (2019)
+http://144.217.70.79/VODS-M/1080P/The%20art%20of%20racing%20in%20the%20rain%202019.mp4
+#EXTINF:-1, Rattlesnake (2019)
+http://144.217.70.79/VODS-M/1080P/Rattlesnake%202019.mp4
+#EXTINF:-1, Dolemite is my name (2019))
+http://144.217.70.79/VODS-M/1080P/Dolemite%20is%20my%20name%20(2019).mp4
+#EXTINF:-1, The angry birds movie 2 (2019)
+http://144.217.70.79/VODS-M/1080P/The%20angry%20birds%20movie%202%202019.mp4
+#EXTINF:-1, Fast and furious presents hobbs and shaw (2019)
+http://144.217.70.79/VODS-M/1080P/Fast%20and%20furious%20presents%20hobbs%20and%20shaw%202019.mp4
+#EXTINF:-1, Monsters and men (2018)
+http://144.217.70.79/VODS-M/1080P/Monsters%20and%20men%202018.mp4
+#EXTINF:-1, Wounds (2019)
+http://144.217.70.79/VODS-M/1080P/Wounds%202019.mp4
+#EXTINF:-1, Eli (2019)
+http://144.217.70.79/VODS-M/1080P/Eli%202019.mp4
+#EXTINF:-1, The laundromat (2019)
+http://144.217.70.79/VODS-M/1080P/The%20laundromat%202019.mp4
+#EXTINF:-1, The professor and the madman (2019)
+http://144.217.70.79/VODS-M/1080P/The%20professor%20and%20the%20madman%202019.mp4
+#EXTINF:-1, The King of Comedy (1982)
+http://144.217.70.79/VODS-M/1080P/The%20King%20of%20Comedy%201982.mkv
+#EXTINF:-1, Booksmart (2019)
+http://144.217.70.79/VODS-M/1080P/Booksmart%202019.mp4
+#EXTINF:-1, Fractured (2019)
+http://144.217.70.79/VODS-M/1080P/Fractured%202019.mp4
+#EXTINF:-1, Wonder woman bloodlines (2019)
+http://144.217.70.79/VODS-M/1080P/Wonder%20woman%20bloodlines%202019.mp4
+#EXTINF:-1, El camino a breaking bad movie (2019)
+http://144.217.70.79/VODS-M/1080P/El%20camino%20a%20breaking%20bad%20movie%202019.mp4
+#EXTINF:-1, The lion king (2019)
+http://144.217.70.79/VODS-M/1080P/The%20lion%20king%202019.mp4
+#EXTINF:-1, Street Fighter (1994)
+http://144.217.70.79/VODS-M/1080P/Street%20Fighter%201994.mkv
+#EXTINF:-1, The Prophecy 3 The Ascent (2000)
+http://144.217.70.79/VODS-M/1080P/The%20Prophecy%203%20The%20Ascent%202000.mkv
+#EXTINF:-1, In the tall grass (2019)
+http://144.217.70.79/VODS-M/1080P/In%20the%20tall%20grass%202019.mp4
+#EXTINF:-1, Crawl (2019)
+http://144.217.70.79/VODS-M/1080P/Crawl%202019.mp4
+#EXTINF:-1, Stuber (2019)
+http://144.217.70.79/VODS-M/1080P/Stuber%202019.mp4
+#EXTINF:-1, Teen titans go vs teen titans (2019)
+http://144.217.70.79/VODS-M/1080P/Teen%20titans%20go%20vs%20teen%20titans%202019.mp4
+#EXTINF:-1, The death and return of superman (2019)
+http://144.217.70.79/VODS-M/1080P/The%20death%20and%20return%20of%20superman%202019.mp4
+#EXTINF:-1, In the shadow of the moon (2019)
+http://144.217.70.79/VODS-M/1080P/In%20the%20shadow%20of%20the%20moon%202019.mp4
+#EXTINF:-1, Teen spirit (2018)
+http://144.217.70.79/VODS-M/1080P/Teen%20spirit%202018.mp4
+#EXTINF:-1, Toy story 4 (2019)
+http://144.217.70.79/VODS-M/1080P/Toy%20story%204%202019.mp4
+#EXTINF:-1, Doom annihilation (2019)
+http://144.217.70.79/VODS-M/1080P/Doom%20annihilation%202019.mp4
+#EXTINF:-1, Tall girl (2019)
+http://144.217.70.79/VODS-M/1080P/Tall%20girl%202019.mp4
+#EXTINF:-1, Before the Devil Knows Youre Dead (2007)
+http://144.217.70.79/VODS-M/1080P/Before%20the%20Devil%20Knows%20Youre%20Dead%202007.mkv
+#EXTINF:-1, Anna (2019)
+http://144.217.70.79/VODS-M/1080P/Anna%202019.mp4
+#EXTINF:-1, Annabelle comes home (2019)
+http://144.217.70.79/VODS-M/1080P/Annabelle%20comes%20home%202019.mp4
+#EXTINF:-1, Yesterday (2019)
+http://144.217.70.79/VODS-M/1080P/Yesterday%202019.mp4
+#EXTINF:-1, Childs play (2019)
+http://144.217.70.79/VODS-M/1080P/Childs%20play%202019.mp4
+#EXTINF:-1, Greta (2018)
+http://144.217.70.79/VODS-M/1080P/Greta%202018.mp4
+#EXTINF:-1, Boarding school (2018)
+http://144.217.70.79/VODS-M/1080P/Boarding%20school%202018.mp4
+#EXTINF:-1, The Queens Corgi (2019)
+http://144.217.70.79/VODS-M/1080P/The%20Queens%20Corgi%202019.mp4
+#EXTINF:-1, Redcon1 (2018)
+http://144.217.70.79/VODS-M/1080P/Redcon1%202018.mp4
+#EXTINF:-1, Swimming with Men (2019)
+http://144.217.70.79/VODS-M/1080P/Swimming%20with%20Men%202019.mp4
+#EXTINF:-1, Falling inn love (2019)
+http://144.217.70.79/VODS-M/1080P/Falling%20inn%20love%202019.mp4
+#EXTINF:-1, The Karate Kid Part 3 (1989)
+http://144.217.70.79/VODS-M/1080P/The%20Karate%20Kid%20Part%203%201989.mkv
+#EXTINF:-1, The Car Road to Revenge (2019)
+http://144.217.70.79/VODS-M/1080P/The%20Car%20Road%20to%20Revenge%202019.mp4
+#EXTINF:-1, Ideal home (2018)
+http://144.217.70.79/VODS-M/1080P/Ideal%20home%202018.mp4
+#EXTINF:-1, Ma ROSA (2019)
+http://144.217.70.79/VODS-M/1080P/Ma%202019.mp4
+#EXTINF:-1, Beats (2019)
+http://144.217.70.79/VODS-M/1080P/Beats%202019.mp4
+#EXTINF:-1, Invader zim enter the florpus (2019)
+http://144.217.70.79/VODS-M/1080P/Invader%20zim%20enter%20the%20florpus%202019.mp4
+#EXTINF:-1, Descendants 3 (2019)
+http://144.217.70.79/VODS-M/1080P/Descendants%203%202019.mp4
+#EXTINF:-1, The dead dont die (2019)
+http://144.217.70.79/VODS-M/1080P/The%20dead%20dont%20die%202019.mp4
+#EXTINF:-1, Poms (2019)
+http://144.217.70.79/VODS-M/1080P/Poms%202019.mp4
+#EXTINF:-1, A dark place (2018)
+http://144.217.70.79/VODS-M/1080P/A%20dark%20place%202018.mp4
+#EXTINF:-1, River of No Return (1954)
+http://144.217.70.79/VODS-M/1080P/River%20of%20No%20Return%201954.mkv
+#EXTINF:-1, Mid90s (2018)
+http://144.217.70.79/VODS-M/1080P/Mid90s%202018.mp4
+#EXTINF:-1, Hitman agent 47 (2015)
+http://144.217.70.79/VODS-M/1080P/Hitman%20agent%2047%202015.mp4
+#EXTINF:-1, Donnybrook (2018)
+http://144.217.70.79/VODS-M/1080P/Donnybrook%202018.mp4
+#EXTINF:-1, Men in black international (2019)
+http://144.217.70.79/VODS-M/1080P/Men%20in%20black%20international%202019.mp4
+#EXTINF:-1, Rocketman (2019)
+http://144.217.70.79/VODS-M/1080P/Rocketman%202019.mp4
+#EXTINF:-1, UglyDolls (2019)
+http://144.217.70.79/VODS-M/1080P/UglyDolls%202019.mp4
+#EXTINF:-1, The hustle (2019)
+http://144.217.70.79/VODS-M/1080P/The%20hustle%202019.mp4
+#EXTINF:-1, Revolver (2005)
+http://144.217.70.79/VODS-M/1080P/Revolver%202005.mkv
+#EXTINF:-1, A dogs journey (2019)
+http://144.217.70.79/VODS-M/1080P/A%20dogs%20journey%202019.mp4
+#EXTINF:-1, Marnies Welt (Spy Cat) (2019)
+http://144.217.70.79/VODS-M/1080P/Marnies%20Welt%20(Spy%20Cat)%202019.mp4
+#EXTINF:-1, Brightburn (2019)
+http://144.217.70.79/VODS-M/1080P/Brightburn%202019.mp4
+#EXTINF:-1, Destination wedding (2018)
+http://144.217.70.79/VODS-M/1080P/Destination%20wedding%202018.mp4
+#EXTINF:-1, Tolkien (2019)
+http://144.217.70.79/VODS-M/1080P/Tolkien%202019.mp4
+#EXTINF:-1, White Chicks (2004)
+http://144.217.70.79/VODS-M/1080P/White%20Chicks%202004.mkv
+#EXTINF:-1, Unplanned (2019)
+http://144.217.70.79/VODS-M/1080P/Unplanned%202019.mp4
+#EXTINF:-1, Otherhood (2019)
+http://144.217.70.79/VODS-M/1080P/Otherhood%202019.mp4
+#EXTINF:-1, The man who killed don quixote (2018)
+http://144.217.70.79/VODS-M/1080P/The%20man%20who%20killed%20don%20quixote%202018.mp4
+#EXTINF:-1, Batman hush (2019)
+http://144.217.70.79/VODS-M/1080P/Batman%20hush%202019.mp4
+#EXTINF:-1, Secret obsession (2019)
+http://144.217.70.79/VODS-M/1080P/Secret%20obsession%202019.mp4
+#EXTINF:-1, Breakthrough (2019)
+http://144.217.70.79/VODS-M/1080P/Breakthrough%202019.mp4
+#EXTINF:-1, A vigilante (2018)
+http://144.217.70.79/VODS-M/1080P/A%20vigilante%202018.mp4
+#EXTINF:-1, After (2019)
+http://144.217.70.79/VODS-M/1080P/After%202019.mp4
+#EXTINF:-1, Point blank (2019)
+http://144.217.70.79/VODS-M/1080P/Point%20blank%202019.mp4
+#EXTINF:-1, Hide and Seek (2005)
+http://144.217.70.79/VODS-M/1080P/Hide%20and%20Seek%202005.mkv
+#EXTINF:-1, Alita battle angel (2019)
+http://144.217.70.79/VODS-M/1080P/Alita%20battle%20angel%202019.mp4
+#EXTINF:-1, 211 (2018)
+http://144.217.70.79/VODS-M/1080P/211%202018.mp4
+#EXTINF:-1, Escape plan the extractors movies (2019)
+http://144.217.70.79/VODS-M/1080P/Escape%20plan%20the%20extractors%202019.mp4
+#EXTINF:-1,Lego friends
+http://208.88.245.85/nuevo/legofriends.nextchapter.dual2023.mkv
+#EXTINF:-1,Los blancos no saben saltar
+http://208.88.245.85/nuevo/losblancos.nosabensaltar.dual2023.mkv
+#EXTINF:-1,La usurpadora
+http://208.88.245.85/nuevo/la.usurpadora2023.latino.mkv
+#EXTINF:-1,Misión de rescate 2
+http://208.88.245.85/nuevo/extraction.dual.2023.mkv
+#EXTINF:-1,Taz odisea por las hamburguesas
+http://208.88.245.85:80/nuevo/taz.odiseaxlashamburguesas.2023dual.mkv
+#EXTINF:-1,La niña de la comunión
+http://208.88.245.85:80/nuevo/la.nina.dela.comunion.2023cast.mkv
+#EXTINF:-1,Mounstruos
+http://208.88.245.85:80/nuevo/monstruos.2023dual.mkv
+#EXTINF:-1,Mounstruos
+http://208.88.245.85:80/nuevo/monstruos.2023dual.mkv
+#EXTINF:-1,Flaminhot
+http://208.88.245.85:80/nuevo/flaminhot.2023dual.mkv
+#EXTINF:-1,Tin y Tina (2023)
+http://208.88.245.85/nuevo/tin.tina.2023.cast.mkv
+#EXTINF:-1,Los blancos no saben saltar
+http://208.88.245.85/nuevo/losblancos.nosabensaltar.dual2023.mkv
+#EXTINF:-1,La usurpadora
+http://208.88.245.85/nuevo/la.usurpadora2023.latino.mkv
+#EXTINF:-1,Misión de rescate 2
+http://208.88.245.85/nuevo/extraction.dual.2023.mkv
+#EXTINF:-1,Taz odisea por las hamburguesas
+http://208.88.245.85:80/nuevo/taz.odiseaxlashamburguesas.2023dual.mkv
+#EXTINF:-1,La niña de la comunión
+http://208.88.245.85:80/nuevo/la.nina.dela.comunion.2023cast.mkv
+#EXTINF:-1,La Sirenita (2023) (CAM)
+http://208.88.245.81/nuevo/la.sirenita.2023dual.mkv
+#EXTINF:-1,Tin y Tina (2023)
+http://208.88.245.85/nuevo/tin.tina.2023.cast.mkv
+#EXTINF:-1,The Black clover la espada del rey
+http://208.88.245.81/nuevo/blacklover.espadadelreymago.2023dual.mkv
+#EXTINF:-1,Cuiden a maya
+http://208.88.245.81/nuevo/cuiden.a.maya.dual2023.mkv
+#EXTINF:-1,El pacto
+http://208.88.245.81/nuevo/el.pacto.2023dual.mkv
+#EXTINF:-1,The flash
+http://208.88.245.81/nuevo/the.flash.2023dual.mkv
+#EXTINF:-1,Transformers despertar de las bestias
+http://208.88.245.85/nuevo/transformers.despertar.dlas.bestias.2023dual.mkv
+#EXTINF:-1,Lego friends
+http://208.88.245.85/nuevo/legofriends.nextchapter.dual2023.mkv
+#EXTINF:-1,Los blancos no saben saltar
+http://208.88.245.85/nuevo/losblancos.nosabensaltar.dual2023.mkv
+#EXTINF:-1,La usurpadora
+http://208.88.245.85/nuevo/la.usurpadora2023.latino.mkv
+#EXTINF:-1,Misión de rescate 2
+http://208.88.245.85/nuevo/extraction.dual.2023.mkv
+#EXTINF:-1,Taz odisea por las hamburguesas
+http://208.88.245.85:80/nuevo/taz.odiseaxlashamburguesas.2023dual.mkv
+#EXTINF:-1,La niña de la comunión
+http://208.88.245.85:80/nuevo/la.nina.dela.comunion.2023cast.mkv
+#EXTINF:-1,Flaminhot
+http://208.88.245.85:80/nuevo/flaminhot.2023dual.mkv
+#EXTINF:-1,Tin y Tina (2023)
+http://208.88.245.85/nuevo/tin.tina.2023.cast.mkv
+#EXTINF:-1,La princesa cisne
+http://208.88.245.85/nuevo/princesa.cisne.2023dual.mkv
+#EXTINF:-1,Ellas quieren más
+http://208.88.245.85/nuevo/cuando.ellasquierenmas.2023dual.mkv
+#EXTINF:-1,Big Mack gangsters
+http://208.88.245.85/nuevo/bigmack.gangstersyoro.2023dual.mkv
+#EXTINF:-1,Tin y tina
+http://208.88.245.85/nuevo/tin.tina.2023.cast.mkv
+#EXTINF:-1,La sirenita
+http://208.88.245.81/nuevo/la.sirenita.2023dual.mkv
+#EXTINF:-1,Rock dog 3
+http://208.88.245.85/nuevo/rockdog3.dual.2023.mkv
+#EXTINF:-1,Anna Nicolle
+http://208.88.245.85/nuevo/annanicolle.dual.2023.mkv
+#EXTINF:-1,El último vagon
+http://208.88.245.85/nuevo/ultimo.vagon.latino2023.mkv
+#EXTINF:-1,Nada qué ver
+http://208.88.245.85/nuevo/nadakver.latino2023.mkv
+#EXTINF:-1,Rápidos y furiosos 10
+http://208.88.245.85/nuevo/fastfuriusx.dual.2023.mkv
+#EXTINF:-1,Sombras de un crimen
+http://208.88.245.85/nuevo/marlowe.2023.dual.mkv
+#EXTINF:-1,Uno para morir
+http://208.88.245.85/nuevo/unoparamorir.latino.2023.mkv
+#EXTINF:-1,Crater
+http://208.88.245.81/nuevo/crater.dual.2023.mkv
+#EXTINF:-1,Bendita suegra
+http://208.88.245.81/nuevo/benditasuegra.latino.2023.mkv
+#EXTINF:-1,Hasta la madre
+http://208.88.245.85/nuevo/hastalam.dldia.dlamadre.latino.2023.mkv
+#EXTINF:-1,La madre (2023)
+http://208.88.245.85/nuevo/la.madre.dual.2023.mkv
+#EXTINF:-1,Posesión infernal: El despertar (2023)
+http://208.88.245.85/nuevo/evildead.eldespertar.dual2023.mkv
+#EXTINF:-1,Quiero tu vida (2023)
+http://208.88.245.85/nuevo/quiero.tuvida.latino2023.mkv
+#EXTINF:-1,Ghosted (2023)
+http://208.88.245.81/nuevo/ghosted.dual.2023.mkv
+#EXTINF:-1,Renfield: Asistente de vampiro (2023)
+http://208.88.245.81/nuevo/renfield.asistdvampiro.dual2023.mkv
+#EXTINF:-1,Ofrenda al demonio (2022)
+http://208.88.245.85/nuevo/ofrenda.aldemonio.dual.2023.mkv
+#EXTINF:-1,El clon de tyrone
+http://208.88.245.85/nuevo/el.clon.de.tyrone.dual2023.mkv
+#EXTINF:-1,La leyenda de los chaneques
+http://208.88.245.85/nuevo/la.leyenda.delos.chaneques.ltino2023.mkv
+#EXTINF:-1,Lionel Messi destiny
+http://208.88.245.85/nuevo/lionelmessi.destiny.2023.mkv
