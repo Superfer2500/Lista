@@ -1,0 +1,24 @@
+#EXTINF:-1,NOTICIAS:CGTN 1
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1,Vaya televisión
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1,CGTN
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1,Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1,ESPAÑA NAVARRA
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+#EXTINF:-1,ESPAÑA:TV Galicia Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1,ALCARRIA TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1,Música superior | alta definición
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1,MÚSICA SUPERIOR
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+#EXTINF:-1,MÚSICA RETRO HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1,Televisión retro | Dakota del Sur
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,CLIPS DE MTV 1
+http://rtmp.one.by:1200

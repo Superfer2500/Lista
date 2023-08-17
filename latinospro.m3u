@@ -1,0 +1,1072 @@
+#EXTINF:-1,CANAL 4
+http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
+#EXTINF:-1,CANAL 19
+https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8?hdnts=exp=1656267791~acl=/*~hmac=e8c4066bd68bc6f8c7d71624209307e886598841fbbf4c57ec264a271d4dfd1a
+#EXTINF:-1,CANAL 21
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8?hdnts=exp=1656268920~acl=/*~hmac=8fda93655adbfe1025b406ea7775f2e8f576dd0b7b3984173d4e4110b986a18a
+#EXTINF:-1,CANAL 10 SD
+http://138.59.177.34:8000/play/a00x/index.m3u8
+#EXTINF:-1,CANAL 10
+http://go.iptvhn.net:25461/7680/7680/31
+#EXTINF:-1, 1 | WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1,CANAL 11 TUTV
+https://streaming.grupocsanetwork.net:1936/canal11/canal11/playlist.m3u8
+#EXTINF:-1,TV USULUTECA
+http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
+#EXTINF:-1,CANAL 12
+http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
+#EXTINF:-1,TABER TV
+https://5ca9af4645e15.streamlock.net:443/tabertv/smil:tabertv.smil/chunklist_w1491631889_b1428000_DVR_sleng.m3u8
+#EXTINF:-1,CARTOONITO
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1, CANAL 65
+https://panel.streamingtv-mediacp.online:1936/tv65/tv65/chunklist_w17059926.m3u8
+#EXTINF:-1,DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
+#EXTINF:-1,RT EN ESPAÑOL
+https://rt-esp.rttv.com:443/live/rtesp/playlist_800Kb.m3u8
+#EXTINF:-1,NICK CLASICO JR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,NICK JR CLUB
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,NICK CLASICO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=bc342b32-6e53-468c-9a43-1cbc213945ac&clientModelNumber=na&deviceDNT=false&deviceId=bc342b32-6e53-468c-9a43-1cbc213945ac&deviceLat=13.7066&deviceLon=-89.2053&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=d5b8a4f4-6969-11eb-ac8e-0242ac110002&sid=d5b8a4f4-6969-11eb-ac8e-0242ac110002&userId=
+#EXTINF:-1,BOB ESPONJA
+https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1,BOB SPONJA
+http://51.159.104.29:8080/bobesponja/index.m3u8
+#EXTINF:-1,MALCOM
+http://51.159.104.29:8080/malcom/index.m3u8
+#EXTINF:-1,BEN 10
+http://51.159.104.29:8080/ben10/index.m3u8
+#EXTINF:-1,NICKTEEN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,CHINOLA TV
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2123.m3u8
+#EXTINF:-1, LOS 3 CHIFLADOS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
+#EXTINF:-1, TELECOSTA
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:-1,RADIO FUEGO
+https://mgv-fuego.akamaized.net/hls/live/2039834/MGV_FUEGO/master.m3u8
+#EXTINF:-1, SKY MX
+http://168.228.194.33:48001/play/a0au/index.m3u8
+#EXTINF:-1,Fox Deportes
+http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
+#EXTINF:-1, ESPN SD
+http://45.179.140.242:8000/play/a0ie
+#EXTINF:-1, ESPN 2 SD
+http://45.179.140.242:8000/play/a0id
+#EXTINF:-1, ESPN 3 SD
+http://45.179.140.242:8000/play/a0je
+#EXTINF:-1, ESPN 4 SD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3527
+#EXTINF:-1, Dazn La Liga 🇪🇸
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+#EXTINF:-1, Dazn 1 🇪🇸
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+#EXTINF:-1, Dazn 2 🇪🇸
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+#EXTINF:-1, REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1, BEIN EXTRA
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1, BEIN EXTRA
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1,CARTOONS
+https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
+#EXTINF:-1, TOONCAST
+http://gotv.vip:8880/victor/mejia/376
+#EXTINF:-1,TVE
+https://n9.cl/teg5p
+#EXTINF:-1,EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1,MULTIPREMIER
+http://160.20.165.246:8000/play/a00b/index.m3u8
+#EXTINF:-1, WTV NIC
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:-1, Canal 6 Nicaragua
+http://138.117.4.70:8075/Canal06_CooTel/playlist.m3u8
+#EXTINF:-1,Canal 10 Nicaragua
+http://138.117.4.70:8075/Canal10_CooTel/playlist.m3u8
+#EXTINF:-1, TV FLORENCIA
+https://cdn.streamhispanatv.net:3819/live/tvflorencialive.m3u8
+#EXTINF:-1, TELE11
+http://45.228.234.77:3340/play/canal_once/index.m3u8
+#EXTINF:-1,TELE11.
+https://na.gt-app.com:2083/live/UIapp/qLzpvNzf04JgYjTvKbGjMnRoLgXf/3.ts
+#EXTINF:-1,UNIVERSO
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/165.ts
+#EXTINF:-1,CANAL 8
+https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
+#EXTINF:-1, ECUARADIO TV
+https://sv72.ecuaradiotv.net/rtvhd/live/playlist.m3u8
+#EXTINF:-1, DISNEY CHANNEL
+https://v3.playerlatino.live/stream/m3u8/29|user-agent=Lavf/57.71.001
+#EXTINF:-1, TV Azteca Corazon
+https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1,CANAL 4 JUJUY
+http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1604822537_b121000.m3u8
+#EXTINF:-1,Foro TV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
+#EXTINF:-1, FORO TV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1, ADN 40
+http://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1, MEGA CL
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1,NICOYA TV
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
+#EXTINF:-1,DRAGON BALL
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2336.m3u8
+#EXTINF:-1,ESTRELLA TV
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1, CNN
+http://190.171.101.36/CNN/index.m3u8?token=ADM1-1659291007-74e5b4871adfefeaf0f42a18956a230fc9420dab
+#EXTINF:-1, ESPN A
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/21
+#EXTINF:-1, ESPN 2 A
+http://50.7.66.234:8080/martinmesa/123456MM/1155888
+#EXTINF:-1, DISCOVERY KIDS
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/210.ts
+#EXTINF:-1,WARNER
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/59.ts
+#EXTINF:-1,ANIMAL PLANET HD
+https://v3.playerlatino.live/stream/m3u8/633|user-agent=Lavf/57.71.001
+#EXTINF:-1,AZTECA 7 HD
+http://166.0.208.26:4481/bodega/enco1_in04/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1,Bitme
+http://45.228.234.77:3340/play/bitme/index.m3u8
+#EXTINF:-1, ESPN
+http://bgaddon30.000webhostapp.com/tl.php?ch=espn-mexico-en-vivo&token=black_
+#EXTINF:-1,TUDN
+http://gotv.vip:8880/victor/mejia/291
+#EXTINF:-1, Dreamworks
+http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+#EXTINF:-1, HGTV
+http://bgtv.site:80/play/23-720.php?a=225&token=fg
+#EXTINF:-1, TELEMUNDO INT
+http://wayforward.xyz:2086/live/andrej38/6455449/56535.ts
+#EXTINF:-1, CANAL 57 USA
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+#EXTINF:-1, HBO
+http://190.171.101.36/HBO/tracks-v3a2/mono.m3u8
+#EXTINF:-1, RAI ITALIA
+http://190.171.101.36/Rail/index.m3u8?token=ADM1-1659291123-82f9a51b0f5255d7faa0298e4af7fad98477613d
+#EXTINF:-1, CRISTIANO TV
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8
+#EXTINF:-1,El PAIS
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1,EL CONFIDENCIAL
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8?stoken=samsung.zhqJK9905&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1, XTREMA ANIME
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+#EXTINF:-1, CINE INFANTIL
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:-1, RETRO INFANTIL
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:-1, CANAL 34 PR
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:-1, CINE CLÁSICO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1, STV
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:-1, QUINCE UCR
+http://163.178.170.127:1935/quinceucr/quinceucr/chunklist_w602152202.m3u8
+#EXTINF:-1, PLANETA TV KIDS
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1, LIM TV
+https://tv.invasivamedia.com/hls/limtv.m3u8
+#EXTINF:-1, MONI TV
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+#EXTINF:-1, CINCO
+http://187.188.232.236:1021/play/a00s/index.m3u8
+#EXTINF:-1, PREMIERE 2HD
+http://185.150.190.225:16482/
+#EXTINF:-1, PREMIERE 3HD
+http://185.150.190.225:16476/
+#EXTINF:-1, PREMIERE 4HD
+http://185.150.190.225:16472/
+#EXTINF:-1, Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1, TELEMUNDO PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+#EXTINF:-1, NEO TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1, CONTACTO DEPORTIVO
+https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:-1,NICK LATINO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1, LIGA SAUDI
+https://webudit.cdnhks.lol/lb/premium614/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+#EXTINF:-1, TEEN NICK
+https://v3.playerlatino.live/stream/m3u8/882|user-agent=Lavf/57.71.001&referrer=https://v3.playerlatino.live
+#EXTINF:-1,TN
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1, DAZN
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/214.ts
+#EXTINF:-1, SKY
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1,CANAL 4 ESA
+http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
+#EXTINF:-1,CANAL 6 ESA
+http://168.227.22.18:1935/live/mobile-111/playlist.m3u8
+#EXTINF:-1,CANAL 2 ESA
+http://168.227.22.18:1935/live/mobile-110/playlist.m3u8
+#EXTINF:-1, TVN PA
+https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+#EXTINF:-1,VAMOS ES
+http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28022
+#EXTINF:-1,Nat Geo Wild
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55611&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd
+#EXTINF:-1,MATCH TV
+http://uiptv.do.am/1ufc/000000003/playlist.m3u8
+#EXTINF:-1, MATCH 2
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1, MATCH 3
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1,FUTV
+https://m6gdar5eyn93-hls-live.5centscdn.com/FutvStream/a2043e93f9196f2de4487156bc8261f3.sdp/FutvStream/stream24x7live3/chunks.m3u8
+#EXTINF:-1, ESPN 4 BR HD
+http://89.38.96.234:14525/
+#EXTINF:-1, ARENA SPORTS 3
+http://80.252.37.194:5000/udp/233.233.233.5:12000
+#EXTINF:-1,LIGA ESPAÑOLA
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1,PREMIER LEAGUE
+http://190.83.60.34:1414/play/a036
+#EXTINF:-1,BUNDESLIGA
+http://168.228.194.33:48001/play/a09m/index.m3u8
+#EXTINF:-1,LIGUE 1
+http://tutercer.xyz:8080/alejandro47/XEKd0oV0xa/23404
+#EXTINF:-1,#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnhks.lol/lb/premium66/index.m3u8
+#EXTINF:-1, COPA ORO opc 2
+http://190.61.101.9:9000/play/a03a/index.m3u8
+#EXTINF:-1, CONCACAF CUP
+http://166.0.208.24:4481/andromeda/FOXSP2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1,L QUIPE
+https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
+#EXTINF:-1, EL CHAVO
+https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+#EXTINF:-1,GOL PERU
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/170
+#EXTINF:-1,CANAL 9
+http://166.0.208.23:4481/galaTV/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1,LA ROSA DE GUADALUPE OPC 2
+https://v3.playerlatino.live/stream/m3u8/886|user-agent=Dalvik/2.1.0
+#EXTINF:-1,LA ROSA DE GUADALUPE
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF:-1, 40 y 20
+http://gotv.vip:8880/enrique12/enrique12/157544
+#EXTINF:-1, Los Picapiedra TV
+https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
+#EXTINF:-1, ANIMAL PLANET
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/75.ts
+#EXTINF:-1,TURKMEN TV
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
+#EXTINF:-1, SKY CALCIO
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129037
+#EXTINF:-1, UFC
+http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1,CERO EN CONDUCTA
+http://dnsplay.xyz:80/live/wtrzkida/vgeC3c57R5/333116.m3u8
+#EXTINF:-1, TU UNIVERSO TV
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
+#EXTINF:-1, RAI 3
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w994803816.m3u8
+#EXTINF:-1,TNT Sports 3 🇨🇱
+http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1, EXTREMA KIDS
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+#EXTINF:-1, Rocket Power
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6202ab549654c800076ee13f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
+#EXTINF:-1,SAN MARINO SPORT
+http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
+#EXTINF:-1, VARIEDTV
+https://6362ca6f1fc28.streamlock.net/8066/8066/chunklist_w415121730.m3u8
+#EXTINF:-1,RETRO CARTOONS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,KENAN & KEL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,TOON GOGGLES
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+#EXTINF:-1, CANAL INFANTIL
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
+#EXTINF:-1,DIOS TV KIDS
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DIOS TV
+https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,PENIEL K&Y
+https://cdn.streamhispanatv.net:3155/live/penielkidslive.m3u8
+#EXTINF:-1, TVS RETRO
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1,CANAL 6 CR
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal6_720.m3u8
+#EXTINF:-1,TD+2
+https://m6gdar5eyn93-hls-live.5centscdn.com/TDMas2/2409f772ae1a7179adc3f7da77d8785f.sdp/playlist.m3u8
+#EXTINF:-1,TD+
+http://190.171.101.36/TD2/index.m3u8?token=ADM1-1659291194-84fd5abb62fbef72467d2fcfdf37e92d3168046b
+#EXTINF:-1,TELETICA
+https://m6gdar5eyn93-hls-live.5centscdn.com/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/playlist.m3u8
+#EXTINF:-1, TELELIMA
+http://38.44.237.132:2080/TeleLima/index.m3u8
+#EXTINF:-1, RSV
+https://stmv1.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
+#EXTINF:-1,CANAL 11 CR
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal11_720.m3u8
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
+https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_sport_premium_live/cdgo_viasat_sport_premium_live.isml/playlist.mpd
+#EXTINF:-1,V SPORT EXTRA
+http://dc62c084.ottolok.net/iptv/8E52MW5BS9BCE7/12074/index.m3u8
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
+https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_fotboll_live/cdgo_viasat_fotboll_live.isml/playlist.mpd
+#EXTINF:-1, MATCH 1
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1, ESPN AR
+http://45.181.122.145:8000/play/a01c/index.m3u8
+#EXTINF:-1, ESPN 🇨🇴
+http://45.181.122.145:8000/play/a01c/index.m3u8
+#EXTINF:-1, GEN TV
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
+#EXTINF:-1, UNIVISION
+http://190.83.119.67:8000/play/a044/index.m3u8
+#EXTINF:-1, TELEMUNDO CA
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1, Azteca Internacional
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1, TYC SPORTS
+http://45.179.140.242:8000/play/a0k7
+#EXTINF:-1,CANAL 9 CR
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+#EXTINF:-1,CANAL 25 GT
+https://srv6.zcast.com.br/canalsantarosa/canalsantarosa/playlist.m3u8
+#EXTINF:-1, LA LIGA TV 🇪🇸
+http://echo.solanaflix.com:8080/play/oO7a59oJUBu7fEhUZ0CfZTNMoPp-I4XeQVPSmJA3zGeA4yMdYWphulh9DPVpVUkN
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://138.59.177.34:8000/play/a012/index.m3u8
+#EXTINF:-1, CANAL 3 GT
+http://168.227.22.18:1935/live/mobile-114/playlist.m3u8
+#EXTINF:-1, CANAL 7 GT
+http://168.227.22.18:1935/live/mobile-131/playlist.m3u8
+#EXTINF:-1, TN23 GT
+http://168.227.22.18:1935/live/mobile-130/playlist.m3u8
+#EXTINF:-1, CANAL 28 ATV
+https://emisoras.hn:8081/atv/index.m3u8
+#EXTINF:-1, RTS SPORT
+http://79.106.90.124:5151/live/rtshsport/playlist.m3u8?
+#EXTINF:-1, BOING
+http://91.126.182.211:9981/stream/channelid/1052784018?profile=pass
+#EXTINF:-1, Azteca Guate
+http://190.122.96.187:8888/http/002
+#EXTINF:-1, Sanvito TV
+https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
+#EXTINF:-1, Multipremier
+http://hidra.live:80/ypamzjtt/xY2597mnGj/35003
+#EXTINF:-1, RED BOLIVIA
+http://45.5.151.150:8000/play/a039/index.m3u8
+#EXTINF:-1, Uranio TV
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:-1, CANAL 6 NICA
+https://cootv.cootel.com.ni:8095/Canal06_CooTel/playlist.m3u8
+#EXTINF:-1,Información Periodística
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
+#EXTINF:-1, CBN Español
+https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1, TELEUNIVERSO RD
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+#EXTINF:-1,ASI ES MI GENTE TV
+https://www.yupi.live:1936/tvmigente/tvmigente/playlist.m3u8
+#EXTINF:-1,TIGO SPORTS GT
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:-1, TRV
+http://64.71.148.2:1935/latin/encoder44/playlist.m3u8
+#EXTINF:-1, TOTOVISION
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+#EXTINF:-1, ARENA SPORT 1
+http://80.252.37.194:5000/udp/233.233.233.3:12000
+#EXTINF:-1,Digi Sport 1
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/61288
+#EXTINF:-1, Digi Sport 2
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/61289
+#EXTINF:-1, ELIM RADIO
+http://cdn-radio.elim.org.sv:8007/mp3_64
+#EXTINF:-1, TV FAMILIAR
+https://www.yupi.live:1936/tvftv/tvftv/playlist.m3u8
+#EXTINF:-1, COMEDY CENTRAL
+http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
+#EXTINF:-1,  TOONCAST
+http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
+#EXTINF:-1, SPACE
+http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
+#EXTINF:-1, PARAMOUNT
+http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
+#EXTINF:-1, TYC SPORTS
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+#EXTINF:-1, DISCOVERY
+http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
+#EXTINF:-1, ANTENA 3
+http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
+#EXTINF:-1, FOX SPORTS mx
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1, NICK JR
+http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
+#EXTINF:-1, HOLA TV
+http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
+#EXTINF:-1, PASIONES
+http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
+#EXTINF:-1, CINE CANAL
+http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
+#EXTINF:-1, MULTIPREMIER
+http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
+#EXTINF:-1, STUDIO UNIVERSAL
+http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
+#EXTINF:-1, CARTOON NETWORK
+http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
+#EXTINF:-1, WB TV
+http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
+#EXTINF:-1, FOX SPORTS 2 mx
+http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1, ESPN mx
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+#EXTINF:-1, ESPN 2 mx
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+#EXTINF:-1, SONY CHANEL
+http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+#EXTINF:-1, NICK MUSIC
+http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
+#EXTINF:-1, TELEMUNDO
+http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
+#EXTINF:-1, TRU TV
+http://168.227.22.18:1935/live/mobile-041/playlist.m3u8
+#EXTINF:-1, AXN
+http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
+#EXTINF:-1, CARTOONITO
+http://168.227.22.18:1935/live/mobile-055/playlist.m3u8
+#EXTINF:-1, HISTORY
+http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
+#EXTINF:-1, SYFY
+http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
+#EXTINF:-1, BABY TV
+http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
+#EXTINF:-1, CNN
+http://168.227.22.18:1935/live/mobile-061/playlist.m3u8
+#EXTINF:-1, MTV
+http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
+#EXTINF:-1, UNIVERSAL TV
+http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
+#EXTINF:-1, UNIVERSO
+http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
+#EXTINF:-1, ENI
+http://168.227.22.18:1935/live/mobile-067/playlist.m3u8
+#EXTINF:-1, ANIMAL PLANET
+http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
+#EXTINF:-1, ZOO MOO
+http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
+#EXTINF:-1, TNT
+http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
+#EXTINF:-1, AMC
+http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+#EXTINF:-1, CANAL 12 SV
+http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
+#EXTINF:-1, NAT GEO
+http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
+#EXTINF:-1, HBO 2
+http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
+#EXTINF:-1, KANAL D
+http://168.227.22.18:1935/live/mobile-097/playlist.m3u8
+#EXTINF:-1, DREAMWORKS
+http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+#EXTINF:-1, FOX DEPORTES
+http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
+#EXTINF:-1, H&H
+http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
+#EXTINF:-1, FOX SPORTS 3 mx
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1, TURBO
+http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
+#EXTINF:-1, NICK
+http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
+#EXTINF:-1, ESPN 3 mx
+http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
+#EXTINF:-1, FOX
+http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
+#EXTINF:-1, TVE
+http://168.227.22.18:1935/live/mobile-128/playlist.m3u8
+#EXTINF:-1, CANAL 11 GT
+http://168.227.22.18:1935/live/mobile-132/playlist.m3u8
+#EXTINF:-1, MODO CINE
+http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
+#EXTINF:-1, GOLDEN
+http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
+#EXTINF:-1, FILM & ART
+http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
+#EXTINF:-1, TNT SPORTS CHI
+http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
+#EXTINF:-1, ENLACE
+http://168.227.22.18:1935/live/mobile-145/playlist.m3u8
+#EXTINF:-1, HINSPAN TV
+http://168.227.22.18:1935/live/mobile-147/playlist.m3u8
+#EXTINF:-1, TELEMUNDO INTER
+http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
+#EXTINF:-1, IVC
+http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
+#EXTINF:-1, LIFETIME
+http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
+#EXTINF:-1, E
+http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
+#EXTINF:-1, HISTORY 2
+http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
+#EXTINF:-1, A&E
+http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
+#EXTINF:-1, Tarzan (1999)
+http://144.217.70.79/VODS-M/1080P/Tarzan%201999.mkv
+#EXTINF:-1,BARBIE CASTILLO DE DIAMANTES
+http://archive.org/download/15902146490988087416513007050637/6.mp4
+#EXTINF:-1,BARBIE EL DIARIO DE BARBIE
+http://archive.org/download/15902146490988087416513007050637/10.mp4
+#EXTINF:-1,BARBIE EL LAGO DE LOS CISNES
+http://archive.org/download/15902146490988087416513007050637/9.mp4
+#EXTINF:-1,BARBIE EL SECRETO DE LAS HADAS
+http://archive.org/download/15902146490988087416513007050637/7.mp4
+#EXTINF:-1,BARBIE ESCUELA DE PRINCESAS
+http://archive.org/download/15902146490988087416513007050637/8.mp4
+#EXTINF:-1,BARBIE LA MAGIA DEL PAGASO
+http://archive.org/download/15902146490988087416513007050637/4.mp4
+#EXTINF:-1,BARBIE LAS 3 MOSQUETERAS
+http://archive.org/download/15902139288862477066218214529000/2.mp4
+#EXTINF:-1,BARBIE UNA AVENTURA DE SIRENAS
+http://archive.org/download/15902139288862477066218214529000/3.mp4
+#EXTINF:-1, APOCALYPTO (2006)
+http://vod.tuxchannel.mx/peliculas/720/apocalypto.mkv
+#EXTINF:-1, SHREK 1
+http://archive.org/download/e0be10b1b8a58ca1683b94f291114605-480p/jsiuwuwu.mp4
+#EXTINF:-1,CINEMAX
+https://anbalancer.express.com.ar/live/c1eds/Cinemax/SA_DASH_cipix/Cinemax.mpd
+#EXTINF:-1,UNIVERSAL TV
+https://anbalancer.express.com.ar/live/c1eds/Universal_Channel_HD/SA_DASH_cipix/Universal_Channel_HD.mpd
+#EXTINF:-1,FX
+https://anbalancer.express.com.ar/live/c1eds/FX/SA_DASH_cipix/FX.mpd
+#EXTINF:-1,A&E
+https://anbalancer.express.com.ar/live/c1eds/AE_Mundo_HD/SA_DASH_cipix/AE_Mundo_HD.mpd
+#EXTINF:-1, CNN
+http://45.228.234.77:3340/play/cnnespaniol/index.m3u8
+#EXTINF:-1,Sport TV 1
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5332.ts
+#EXTINF:-1, TV DEL ESTE
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8
+#EXTINF:-1, NICKTEEN
+https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c16ba9e4-85a7-11eb-a861-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1, LOS PADRINOS MAGICOS
+https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1,SOUTH PARK
+https://i.mjh.nz/PlutoTV/63d7a8e5a9957100086bfc23-alt.m3u8
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/bbcnews.php
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/abcaustralia.php
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
+#EXTINF:-1,#EXTVLCOPT--http-reconnect=true
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1011
+#EXTINF:-1,#EXTVLCOPT--http-reconnect=true
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1057
+#EXTINF:-1, IDMAN TV
+http://109.205.166.68/server124/idman_az/index.m3u8
+#EXTINF:-1,POCOYÓ
+https://daiconnect.com/live/hls/tvup/tvfy-pocoyo/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]
+#EXTINF:-1, UCV
+https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1, DE PELICULA
+https://v3.playerlatino.live/stream/m3u8/481
+#EXTINF:-1, CLARO SPORTS 2
+http://138.59.177.34:8000/play/a01j/index.m3u8
+#EXTINF:-1, BITME
+http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
+#EXTINF:-1, Azteca 7
+http://168.228.194.33:48001/play/a0cj/index.m3u8
+#EXTINF:-1, 668 | Canal 57 Apopa TV || EL SALVADOR
+https://streaming.grupocsanetwork.net:3424/canal57/canal57/playlist.m3u8
+#EXTINF:-1, TVO
+http://168.227.22.18:1935/live/mobile-071/playlist.m3u8
+#EXTINF:-1,Movistar LaLiga
+http://clofxtud.rostelekom.xyz:80/iptv/U5RTT4EW296H6V/6073/index.m3u8
+#EXTINF:-1, Arirang TV Korea
+https://amdlive-ch01-ctnd-com.akamaized.net:443/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1,BLACKGHOST 01
+http://bgtv.site/TV
+#EXTINF:-1, http://paypal.me/blackghost
+http://bgtv.site/TV
+#EXTINF:-1,Nimona
+http://208.88.245.85/nuevo/nimona.dual.2023.mkv
+#EXTINF:-1,Suzume
+http://208.88.245.85/nuevo/suzume.dual.2023.mkv
+#EXTINF:-1,Suegros de armas tomar
+http://208.88.245.85/nuevo/suegros.dearmas.tomar.dual.2023.mkv
+#EXTINF:-1,Krakens y sirenas
+http://208.88.245.85/nuevo/krakensysirenas.dual2023.mkv
+#EXTINF:-1,Reposo absoluto
+http://208.88.245.85/nuevo/reposo.absoluto.dual2023.mkv
+#EXTINF:-1,El rey de los clones
+http://208.88.245.85/nuevo/rey.delos.clones.dual2023.mkv
+#EXTINF:-1,El mejor del mundo
+http://208.88.245.85/nuevo/el.mejor.delmundo.dual2023.mkv
+#EXTINF:-1,Ofrenda al demonio
+http://208.88.245.85/nuevo/ofrenda.aldemonio.dual.2023.mkv
+#EXTINF:-1,Maquillame otra vez
+http://208.88.245.85/nuevo/maquillame.otravez.latino.mkv
+#EXTINF:-1,The Black clover la espada del rey
+http://208.88.245.81/nuevo/blacklover.espadadelreymago.2023dual.mkv
+#EXTINF:-1,Cuiden a maya
+http://208.88.245.81/nuevo/cuiden.a.maya.dual2023.mkv
+#EXTINF:-1,El pacto
+http://208.88.245.81/nuevo/el.pacto.2023dual.mkv
+#EXTINF:-1,The flash
+http://208.88.245.81/nuevo/the.flash.2023dual.mkv
+#EXTINF:-1,The Black clover la espada del rey
+http://208.88.245.81/nuevo/blacklover.espadadelreymago.2023dual.mkv
+#EXTINF:-1,Cuiden a maya
+http://208.88.245.81/nuevo/cuiden.a.maya.dual2023.mkv
+#EXTINF:-1,El pacto
+http://208.88.245.81/nuevo/el.pacto.2023dual.mkv
+#EXTINF:-1,The flash
+http://208.88.245.81/nuevo/the.flash.2023dual.mkv
+#EXTINF:-1,Transformers despertar de las bestias
+http://208.88.245.85/nuevo/transformers.despertar.dlas.bestias.2023dual.mkv
+#EXTINF:-1,Spiderman a través del spiderverso
+http://208.88.245.85:80/nuevo/spiderm.atravesdelspiderverso.2023dual.mkv
+#EXTINF:-1,Lego friends
+http://208.88.245.85/nuevo/legofriends.nextchapter.dual2023.mkv
+#EXTINF:-1,Los blancos no saben saltar
+http://208.88.245.85/nuevo/losblancos.nosabensaltar.dual2023.mkv
+#EXTINF:-1,La usurpadora
+http://208.88.245.85/nuevo/la.usurpadora2023.latino.mkv
+#EXTINF:-1,Misión de rescate 2
+http://208.88.245.85/nuevo/extraction.dual.2023.mkv
+#EXTINF:-1,Taz odisea por las hamburguesas
+http://208.88.245.85:80/nuevo/taz.odiseaxlashamburguesas.2023dual.mkv
+#EXTINF:-1,La niña de la comunión
+http://208.88.245.85:80/nuevo/la.nina.dela.comunion.2023cast.mkv
+#EXTINF:-1,Flaminhot
+http://208.88.245.85:80/nuevo/flaminhot.2023dual.mkv
+#EXTINF:-1,La Sirenita (2023) (CAM)
+http://208.88.245.81/nuevo/la.sirenita.2023dual.mkv
+#EXTINF:-1,Tin y Tina (2023)
+http://208.88.245.85/nuevo/tin.tina.2023.cast.mkv
+#EXTINF:-1,La princesa cisne
+http://208.88.245.85/nuevo/princesa.cisne.2023dual.mkv
+#EXTINF:-1,Ellas quieren más
+http://208.88.245.85/nuevo/cuando.ellasquierenmas.2023dual.mkv
+#EXTINF:-1,Big Mack gangsters
+http://208.88.245.85/nuevo/bigmack.gangstersyoro.2023dual.mkv
+#EXTINF:-1,Tin y tina
+http://208.88.245.85/nuevo/tin.tina.2023.cast.mkv
+#EXTINF:-1,La sirenita
+http://208.88.245.81/nuevo/la.sirenita.2023dual.mkv
+#EXTINF:-1,Rock dog 3
+http://208.88.245.85/nuevo/rockdog3.dual.2023.mkv
+#EXTINF:-1,Anna Nicolle
+http://208.88.245.85/nuevo/annanicolle.dual.2023.mkv
+#EXTINF:-1,El último vagon
+http://208.88.245.85/nuevo/ultimo.vagon.latino2023.mkv
+#EXTINF:-1,Nada qué ver
+http://208.88.245.85/nuevo/nadakver.latino2023.mkv
+#EXTINF:-1,Rápidos y furiosos 10
+http://208.88.245.85/nuevo/fastfuriusx.dual.2023.mkv
+#EXTINF:-1,Sombras de un crimen
+http://208.88.245.85/nuevo/marlowe.2023.dual.mkv
+#EXTINF:-1,Uno para morir
+http://208.88.245.85/nuevo/unoparamorir.latino.2023.mkv
+#EXTINF:-1,Crater
+http://208.88.245.81/nuevo/crater.dual.2023.mkv
+#EXTINF:-1,Bendita suegra
+http://208.88.245.81/nuevo/benditasuegra.latino.2023.mkv
+#EXTINF:-1,Hasta la madre
+http://208.88.245.85/nuevo/hastalam.dldia.dlamadre.latino.2023.mkv
+#EXTINF:-1,Air (2023)
+http://208.88.245.85/nuevo/air.2023.dual.mkv
+#EXTINF:-1,La madre (2023)
+http://208.88.245.85/nuevo/la.madre.dual.2023.mkv
+#EXTINF:-1,Posesión infernal: El despertar (2023)
+http://208.88.245.85/nuevo/evildead.eldespertar.dual2023.mkv
+#EXTINF:-1,Quiero tu vida (2023)
+http://208.88.245.85/nuevo/quiero.tuvida.latino2023.mkv
+#EXTINF:-1,Ghosted (2023)
+http://208.88.245.81/nuevo/ghosted.dual.2023.mkv
+#EXTINF:-1,Renfield: Asistente de vampiro (2023)
+http://208.88.245.81/nuevo/renfield.asistdvampiro.dual2023.mkv
+#EXTINF:-1, hoy y siempre (2023)
+http://208.88.245.85/nuevo/powerangers.ayerhoysiempre.dual2023.mkv
+#EXTINF:-1,Peter Pan y Wendy (2023)
+http://208.88.245.85/nuevo/peterpanywendy.2023dual.mkv
+#EXTINF:-1,Noé (2014)
+http://vod.tuxchannel.mx/peliculas/720/noah.mkv
+#EXTINF:-1,La pasión de Cristo (2004)
+http://vod.tuxchannel.mx/peliculas/720/the%20passion%20of%20the%20christ.mkv
+#EXTINF:-1,Pinocho de Guillermo del Toro (2022)
+http://208.88.245.85/nuevo/pinocchio.deltoro.dual.2022.mkv
+#EXTINF:-1,Hacia la libertad (2022)
+http://208.88.245.85/nuevo/emancipation.dual.2022.mkv
+#EXTINF:-1,M3GAN (2022)
+http://208.88.245.85/nuevo/megan.dual.2022.mkv
+#EXTINF:-1,Historia de Honor (2022)
+http://208.88.245.85/nuevo/historia.dehonor.dual2023.mkv
+#EXTINF:-1,Narvik (2023)
+http://208.88.245.85/nuevo/narvik.2023.dual.mkv
+#EXTINF:-1,Bodas de plomo (2023)
+http://208.88.245.85/nuevo/bodas.deplomo.2023.dual.mkv
+#EXTINF:-1,Alerta extrema (2023)
+http://208.88.245.81/nuevo/alerta.extrema.dual.2023.mkv
+#EXTINF:-1,Pig (2021)
+http://vod.tuxchannel.mx/peliculas/720/pig%202021.mkv
+#EXTINF:-1,Furia de titanes 2 (2012)
+http://vod.tuxchannel.mx/peliculas4k/wrath%20of%20the%20titans.mkv
+#EXTINF:-1,Transformers 3 (2011)
+http://vod.tuxchannel.mx/peliculas4k/transformers%20dark%20of%20the%20moon.mkv
+#EXTINF:-1,La quinta ola (2016)
+http://vod.tuxchannel.mx/peliculas4k/the%20fifth%20wave.mkv
+#EXTINF:-1,Furia de titanes 1 (2010)
+http://vod.tuxchannel.mx/peliculas4k/clash%20of%20the%20titans.mkv
+#EXTINF:-1,xXx 3 (2017)
+http://vod.tuxchannel.mx/peliculas/720/xxx%20return%20of%20xander%20cage.mkv
+#EXTINF:-1,xXx 2 (2005)
+http://vod.tuxchannel.mx/peliculas/720/xxx%20estado%20de%20emergencia.mkv
+#EXTINF:-1,Volver al futuro 1 (1985)
+http://vod.tuxchannel.mx/peliculas/720/volver%20al%20futuro.mkv
+#EXTINF:-1,Volver al futuro 3 (1990)
+http://vod.tuxchannel.mx/peliculas/720/volver%20al%20futuro%203.mkv
+#EXTINF:-1,Volver al futuro 2 (1989)
+http://vod.tuxchannel.mx/peliculas/720/volver%20al%20futuro%202.mkv
+#EXTINF:-1,Van Helsing (2004)
+http://vod.tuxchannel.mx/peliculas/720/van%20helsing.mkv
+#EXTINF:-1,Triple Frontier (2019)
+http://vod.tuxchannel.mx/peliculas/720/triple%20frontier%202018.mkv
+#EXTINF:-1,Transformers 1 (2007)
+http://vod.tuxchannel.mx/peliculas/720/transformers.mkv
+#EXTINF:-1,Transformers 5 (2017)
+http://vod.tuxchannel.mx/peliculas/720/transformers%20the%20last%20knight.mkv
+#EXTINF:-1,Estación Zombie 1 (2016)
+http://vod.tuxchannel.mx/peliculas/720/train%20to%20busan.mkv
+#EXTINF:-1,Estación Zombie 2 (2020)
+http://vod.tuxchannel.mx/peliculas/720/train%20to%20busan%202.mkv
+#EXTINF:-1,Miedo profundo (2016)
+http://vod.tuxchannel.mx/peliculas/720/the%20shallows.mkv
+#EXTINF:-1,El único (2001)
+http://vod.tuxchannel.mx/peliculas/720/the%20one.mkv
+#EXTINF:-1,La historia sin fin 1 (1984)
+http://vod.tuxchannel.mx/peliculas/720/the%20neverending%20story.mkv
+#EXTINF:-1,La historia sin fin 3 (1994)
+http://vod.tuxchannel.mx/peliculas/720/the%20neverending%20story%203%20escape%20from%20fantasia%201994.mkv
+#EXTINF:-1,La historia sin fin 2 (1990)
+http://vod.tuxchannel.mx/peliculas/720/the%20neverending%20story%202%20the%20next%20chapter%201990.mkv
+#EXTINF:-1,El poder del talismán (2003)
+http://vod.tuxchannel.mx/peliculas/720/the%20medallion.mkv
+#EXTINF:-1,Maze Runner 1 (2014)
+http://vod.tuxchannel.mx/peliculas/720/the%20maze%20runner.mkv
+#EXTINF:-1,El llanero solitario (2012)
+http://vod.tuxchannel.mx/peliculas/720/the%20lone%20ranger.mkv
+#EXTINF:-1,El último samurái (2003)
+http://vod.tuxchannel.mx/peliculas/720/the%20last%20samurai.mkv
+#EXTINF:-1,El bosque maldito (2019)
+http://vod.tuxchannel.mx/peliculas/720/the%20hole%20in%20the%20ground%202019.mkv
+#EXTINF:-1,Qué pasó ayer? 1 (2009)
+http://vod.tuxchannel.mx/peliculas/720/the%20hangover.mkv
+#EXTINF:-1,Que pasó ayer? 3 (2013)
+http://vod.tuxchannel.mx/peliculas/720/the%20hangover%20part%20III.mkv
+#EXTINF:-1,Qué pasó ayer? 2 (2011)
+http://vod.tuxchannel.mx/peliculas/720/the%20hangover%20part%20II.mkv
+#EXTINF:-1,Los mercenarios 1 (2010)
+http://vod.tuxchannel.mx/peliculas/720/the%20expendables.mkv
+#EXTINF:-1,Los mercenarios 3 (2014)
+http://vod.tuxchannel.mx/peliculas/720/the%20expendables%203.mkv
+#EXTINF:-1,Los muertos no mueren (2019)
+http://vod.tuxchannel.mx/peliculas/720/the%20dead%20dont%20die%202019.mkv
+#EXTINF:-1,Crónicas de Navidad 2 (2020)
+http://vod.tuxchannel.mx/peliculas/720/the%20christmas%20chronicles%202%202020.mkv
+#EXTINF:-1,El libro de Eli (2010)
+http://vod.tuxchannel.mx/peliculas/720/the%20book%20ok%20eli.mkv
+#EXTINF:-1,El Hombre Araña 4 (2012)
+http://vod.tuxchannel.mx/peliculas/720/the%20amazing%20spiderman.mkv
+#EXTINF:-1,Terremoto:la falla de San Andrés (2015)
+http://vod.tuxchannel.mx/peliculas/720/terretomo%20la%20falla%20de%20san%20andres.mkv
+#EXTINF:-1,Tenet (2020)
+http://vod.tuxchannel.mx/peliculas/720/tenet%202020.mkv
+#EXTINF:-1,Saw 9 (2021)
+http://vod.tuxchannel.mx/peliculas/720/spiral%20from%20the%20book%20of%20saw%202021.mkv
+#EXTINF:-1,El Hombre Araña 1 (2002)
+http://vod.tuxchannel.mx/peliculas/720/spiderman.mkv
+#EXTINF:-1,El Hombre Araña 6 (2019)
+http://vod.tuxchannel.mx/peliculas/720/spider-man%20far%20from%20home%202019.mkv
+#EXTINF:-1,El Hombre Araña 3 (2007)
+http://vod.tuxchannel.mx/peliculas/720/spiderman%203.mkv
+#EXTINF:-1,El Hombre Araña 2 (2004)
+http://vod.tuxchannel.mx/peliculas/720/spiderman%202.mkv
+#EXTINF:-1,El Hombre Araña 5 (2017)
+http://vod.tuxchannel.mx/peliculas/720/spider%20man%20homecoming.mkv
+#EXTINF:-1,8 Minutos Antes De Morir (2011)
+http://vod.tuxchannel.mx/peliculas/720/source%20code.mkv
+#EXTINF:-1,Código Fuente (2011)
+http://vod.tuxchannel.mx/peliculas/720/source%20code.mkv
+#EXTINF:-1,Sonic la película (2020)
+http://vod.tuxchannel.mx/peliculas/720/sonic%20the%20hedgehog%202020.mkv
+#EXTINF:-1,Silent Hill 1 (2006)
+http://vod.tuxchannel.mx/peliculas/720/silent%20hill.mkv
+#EXTINF:-1,Silent Hill 2 (2012)
+http://vod.tuxchannel.mx/peliculas/720/silent%20hill%20revelation.mkv
+#EXTINF:-1,Nos vemos ayer (2019)
+http://vod.tuxchannel.mx/peliculas/720/see%20you%20yesterday%202019.mkv
+#EXTINF:-1,Scream 1 (1996)
+http://vod.tuxchannel.mx/peliculas/720/scream%20grita%20antes%20de%20morir.mkv
+#EXTINF:-1,Scream 4 (2011)
+http://vod.tuxchannel.mx/peliculas/720/scream%204.mkv
+#EXTINF:-1,Scream 3 (2000)
+http://vod.tuxchannel.mx/peliculas/720/scream%203%20la%20mascara%20de%20la%20muerte.mkv
+#EXTINF:-1,Scream 2 (1997)
+http://vod.tuxchannel.mx/peliculas/720/scream%202%20grita%20y%20vuelve%20a%20gritar.mkv
+#EXTINF:-1,Scary Movie (2000)
+http://vod.tuxchannel.mx/peliculas/720/scary%20movie.mkv
+#EXTINF:-1,Saw 7 (2010)
+http://vod.tuxchannel.mx/peliculas/720/saw%20VII.mkv
+#EXTINF:-1,Saw 6 (2009)
+http://vod.tuxchannel.mx/peliculas/720/saw%20VI.mkv
+#EXTINF:-1,Saw 5 (2008)
+http://vod.tuxchannel.mx/peliculas/720/saw%20V.mkv
+#EXTINF:-1,Saw 4 (2007)
+http://vod.tuxchannel.mx/peliculas/720/saw%20IV.mkv
+#EXTINF:-1,Saw 3 (2006)
+http://vod.tuxchannel.mx/peliculas/720/saw%20III.mkv
+#EXTINF:-1,Saw 2 (2005)
+http://vod.tuxchannel.mx/peliculas/720/saw%20II.mkv
+#EXTINF:-1,Saw 1 (2004)
+http://vod.tuxchannel.mx/peliculas/720/saw%20I.mkv
+#EXTINF:-1,Riddick 1 (2013)
+http://vod.tuxchannel.mx/peliculas/720/riddick.mkv
+#EXTINF:-1,Resident Evil: Bienvenidos a Raccoon City (2021)
+http://vod.tuxchannel.mx/peliculas/720/resident%20evil%20welcome%20to%20raccoon%20city%202021.mkv
+#EXTINF:-1,Ready Player One (2018)
+http://vod.tuxchannel.mx/peliculas/720/ready%20player%20one.mkv
+#EXTINF:-1,Rampage (2018)
+http://vod.tuxchannel.mx/peliculas/720/rampage.mkv
+#EXTINF:-1,Rambo: Last Blood (2019)
+http://vod.tuxchannel.mx/peliculas/720/rambo%20last%20blood%202019.mkv
+#EXTINF:-1,Quarantine 2 (2011)
+http://vod.tuxchannel.mx/peliculas/720/quarantine%202%20terminal%202011.mkv
+#EXTINF:-1,Power Rangers (2017)
+http://vod.tuxchannel.mx/peliculas/720/power%20rangers.mkv
+#EXTINF:-1,Pig (2021)
+http://vod.tuxchannel.mx/peliculas/720/pig%202021.mkv
+#EXTINF:-1,Ouija: El origen del mal (2016)
+http://vod.tuxchannel.mx/peliculas/720/ouija%20%20origin%20of%20evil.mkv
+#EXTINF:-1,Máquinas mortales (2018)
+http://vod.tuxchannel.mx/peliculas/720/mortal%20engines%202018.mkv
+#EXTINF:-1,Maze Runner 2 (2015)
+http://vod.tuxchannel.mx/peliculas/720/maze%20runner%20the%20scorch%20trials.mkv
+#EXTINF:-1,Maze Runner 3 (2018)
+http://vod.tuxchannel.mx/peliculas/720/maze%20runner%20the%20death%20cure.mkv
+#EXTINF:-1,Maléfica 2 (2019)
+http://vod.tuxchannel.mx/peliculas/720/maleficent%20mistress%20of%20evil%202019.mkv
+#EXTINF:-1,Looper: asesinos del futuro (2012)
+http://vod.tuxchannel.mx/peliculas/720/looper.mkv
+#EXTINF:-1,Life: vida inteligente (2017)
+http://vod.tuxchannel.mx/peliculas/720/life%20w.mkv
+#EXTINF:-1,El misterio de Soho (2021)
+http://vod.tuxchannel.mx/peliculas/720/last%20night%20in%20soho%202021.mkv
+#EXTINF:-1,Las crónicas de Narnia 3 (2010)
+http://vod.tuxchannel.mx/peliculas/720/las%20cronicas%20de%20narnia%20la%20travesia%20del%20viajero%20del%20alba.mkv
+#EXTINF:-1,Las crónicas de Narnia 2 (2008)
+http://vod.tuxchannel.mx/peliculas/720/las%20cronicas%20de%20narnia%20el%20principe%20caspian.mkv
+#EXTINF:-1,Jinete sin cabeza (1999)
+http://vod.tuxchannel.mx/peliculas/720/la%20leyenda%20del%20jinete%20sin%20cabeza.mkv
+#EXTINF:-1,La casa de las flores: la película (2021)
+http://vod.tuxchannel.mx/peliculas/720/la%20casa%20de%20las%20flores%20la%20pelicula%202021.mkv
+#EXTINF:-1,Kong: la Isla Calavera (2017)
+http://vod.tuxchannel.mx/peliculas/720/kong%20skull%20island.mkv
+#EXTINF:-1,Kill Command (2016)
+http://vod.tuxchannel.mx/peliculas/720/kill%20command.mkv
+#EXTINF:-1,John Carter (2012)
+http://vod.tuxchannel.mx/peliculas/720/john%20carter.mkv
+#EXTINF:-1,Saw 8 (2017)
+http://vod.tuxchannel.mx/peliculas/720/jigsaw.mkv
+#EXTINF:-1,IT 2 (2019)
+http://vod.tuxchannel.mx/peliculas/720/it%20chapter%20two%202019.mkv
+#EXTINF:-1,Invasión a la Tierra (2011)
+http://vod.tuxchannel.mx/peliculas/720/invancion%20del%20mundo%20batalla%20los%20angeles.mkv
+#EXTINF:-1,Día de la Independencia: contraataque (2016)
+http://vod.tuxchannel.mx/peliculas/720/independence%20day%20-%20resurgence.mkv
+#EXTINF:-1,Ocultos por la luna (2019)
+http://vod.tuxchannel.mx/peliculas/720/in%20the%20shadow%20of%20the%20moon%202019.mkv
+#EXTINF:-1,Escupiré sobre tu tumba 1 (2010)
+http://vod.tuxchannel.mx/peliculas/720/i%20spit%20on%20your%20grave.mkv
+#EXTINF:-1,Escupiré sobre tu tumba 3 (2015)
+http://vod.tuxchannel.mx/peliculas/720/i%20spit%20on%20your%20grave%203.mkv
+#EXTINF:-1,Escupiré sobre tu tumba 2 (2013)
+http://vod.tuxchannel.mx/peliculas/720/i%20spit%20on%20your%20grave%202.mkv
+#EXTINF:-1,Cazadora de gigantes (2017)
+http://vod.tuxchannel.mx/peliculas/720/i%20kill%20giants.mkv
+#EXTINF:-1,I Am Mother (2019)
+http://vod.tuxchannel.mx/peliculas/720/i%20am%20mother%202019.mkv
+#EXTINF:-1,El Halloween de Hubie (2020)
+http://vod.tuxchannel.mx/peliculas/720/hubie%20halloween%202020.mkv
+#EXTINF:-1,El final de todo (2018)
+http://vod.tuxchannel.mx/peliculas/720/how%20it%20ends.mkv
+#EXTINF:-1,Hotel Transylvania 1 (2012)
+http://vod.tuxchannel.mx/peliculas/720/hotel%20transilvania.mkv
+#EXTINF:-1,Hotel Transylvania 3 (2018)
+http://vod.tuxchannel.mx/peliculas/720/hotel%20transilvania%203.mkv
+#EXTINF:-1,Hotel Transylvania 2 (2015)
+http://vod.tuxchannel.mx/peliculas/720/hotel%20transilvania%202.mkv
+#EXTINF:-1,Hostel 1 (2005)
+http://vod.tuxchannel.mx/peliculas/720/hostal.mkv
+#EXTINF:-1,Hostel 3 (2011)
+http://vod.tuxchannel.mx/peliculas/720/hostal%20parte%203.mkv
+#EXTINF:-1,Hostel 2 (2007)
+http://vod.tuxchannel.mx/peliculas/720/hostal%20parte%202.mkv
+#EXTINF:-1,El manicomio (2018)
+http://vod.tuxchannel.mx/peliculas/720/heilstatten%202018.mkv
+#EXTINF:-1,Hardcore Henry (2015)
+http://vod.tuxchannel.mx/peliculas/720/hardcore%20henry.mkv
+#EXTINF:-1,Feliz día de tu muerte 1 (2017)
+http://vod.tuxchannel.mx/peliculas/720/happy%20death%20day.mkv
+#EXTINF:-1,Feliz día de tu muerte 2 (2019)
+http://vod.tuxchannel.mx/peliculas/720/happy%20death%20day%202%202019.mkv
+#EXTINF:-1,Escalofrios 1 (2015)
+http://vod.tuxchannel.mx/peliculas/720/goosebumps.mkv
+#EXTINF:-1,Huye (2017)
+http://vod.tuxchannel.mx/peliculas/720/get%20out.mkv
+#EXTINF:-1,Geo-tormenta (2017)
+http://vod.tuxchannel.mx/peliculas/720/geostorm.mkv
+#EXTINF:-1,Proyecto Géminis (2019)
+http://vod.tuxchannel.mx/peliculas/720/gemini%20man%202019.mkv
+#EXTINF:-1,Gabriel (2007)
+http://vod.tuxchannel.mx/peliculas/720/gabriel%202007.mkv
+#EXTINF:-1,Freaky (2020)
+http://vod.tuxchannel.mx/peliculas/720/freaky%202020.mkv
+#EXTINF:-1,Escalofríos 2 (2018)
+http://vod.tuxchannel.mx/peliculas/720/escalofrios%202.mkv
+#EXTINF:-1,El rito (2011)
+http://vod.tuxchannel.mx/peliculas/720/el%20rito.mkv
+#EXTINF:-1,Rascacielos (2018)
+http://vod.tuxchannel.mx/peliculas/720/el%20rascacielos.mkv
+#EXTINF:-1,Prince of Persia (2010)
+http://vod.tuxchannel.mx/peliculas/720/el%20principe%20de%20persia%20las%20arenas%20del%20tiempo.mkv
+#EXTINF:-1,El legado del diablo (2018)
+http://vod.tuxchannel.mx/peliculas/720/el%20legado%20del%20diablo.mkv
+#EXTINF:-1,El Exorcista (1973)
+http://vod.tuxchannel.mx/peliculas/720/el%20exorcista.mkv
+#EXTINF:-1,El exorcismo de Emily Rose (2005)
+http://vod.tuxchannel.mx/peliculas/720/el%20exorcismo%20de%20emily%20ross.mkv
+#EXTINF:-1,El día que la tierra se detuvo (2008)
+http://vod.tuxchannel.mx/peliculas/720/el%20dia%20que%20la%20tierra%20se%20detuvo.mkv
+#EXTINF:-1,El cuarto contacto (2009)
+http://vod.tuxchannel.mx/peliculas/720/el%20cuarto%20contacto.mkv
+#EXTINF:-1,El cazador de sueños (2003)
+http://vod.tuxchannel.mx/peliculas/720/el%20cazador%20de%20suenos.mkv
+#EXTINF:-1,El bosque de los suicidios (2016)
+http://vod.tuxchannel.mx/peliculas/720/el%20bosque%20de%20los%20suicidios.mkv
+#EXTINF:-1,Distrito 9 (2009)
+http://vod.tuxchannel.mx/peliculas/720/distrit%209.mkv
+#EXTINF:-1,Destino final 1 (2000)
+http://vod.tuxchannel.mx/peliculas/720/destino%20final.mkv
+#EXTINF:-1,Destino final 5 (2011)
+http://vod.tuxchannel.mx/peliculas/720/destino%20final%205.mkv
+#EXTINF:-1,Destino final 4 (2009)
+http://vod.tuxchannel.mx/peliculas/720/destino%20final%204.mkv
+#EXTINF:-1,Destino final 3 (2006)
+http://vod.tuxchannel.mx/peliculas/720/destino%20final%203.mkv
+#EXTINF:-1,Destino final 2 (2003)
+http://vod.tuxchannel.mx/peliculas/720/destino%20final%202.mkv
+#EXTINF:-1,Demonic (2015)
+http://vod.tuxchannel.mx/peliculas/720/demonic.mkv
+#EXTINF:-1,Déjame entrar (2008)
+http://vod.tuxchannel.mx/peliculas/720/dejame%20entrar.mkv
+#EXTINF:-1,El amanecer de los muertos (2004)
+http://vod.tuxchannel.mx/peliculas/720/dawn%20of%20the%20dead.mkv
+#EXTINF:-1,La crucifixión (2017)
+http://vod.tuxchannel.mx/peliculas/720/crucifixion.mkv
+#EXTINF:-1,Las Crónicas de Narnia 1 (2005)
+http://vod.tuxchannel.mx/peliculas/720/cronicas%20de%20narnia.mkv
+#EXTINF:-1,Contacto (1997)
+http://vod.tuxchannel.mx/peliculas/720/contacto.mkv
+#EXTINF:-1,Venganza (2019)
+http://vod.tuxchannel.mx/peliculas/720/cold%20pursuit%202019.mkv
+#EXTINF:-1,Código 8 (2019)
+http://vod.tuxchannel.mx/peliculas/720/code%208%202019.mkv
+#EXTINF:-1,Escolta (2019)
+http://vod.tuxchannel.mx/peliculas/720/close.mkv
+#EXTINF:-1,Poder sin límites (2012)
+http://vod.tuxchannel.mx/peliculas/720/chronicle.mkv
+#EXTINF:-1,Chernóbil: la película (2021)
+http://vod.tuxchannel.mx/peliculas/720/chernobyl%202021.mkv
+#EXTINF:-1,Chappie (2015)
+http://vod.tuxchannel.mx/peliculas/720/chappie.mkv
+#EXTINF:-1,La rebelión (2019)
+http://vod.tuxchannel.mx/peliculas/720/captive%20state%202019.mkv
+#EXTINF:-1,Transformers 6 (2018)
+http://vod.tuxchannel.mx/peliculas/720/bumblebee%202018.mkv
+#EXTINF:-1,El niño 2 (2020)
+http://vod.tuxchannel.mx/peliculas/720/brahms%20the%20boy%20II%202020.mkv
+#EXTINF:-1,Blade Runner 2049 (2017)
+http://vod.tuxchannel.mx/peliculas/720/blade%20runner%202049.mkv
+#EXTINF:-1,Baby Driver (2017)
+http://vod.tuxchannel.mx/peliculas/720/baby%20driver.mkv
+#EXTINF:-1,Avatar 1 (2009)
+http://vod.tuxchannel.mx/peliculas/720/avatar.mkv
+#EXTINF:-1,Avatar (2009)
+http://vod.tuxchannel.mx/peliculas/720/avatar.mkv
+#EXTINF:-1,Attraction (2017)
+http://vod.tuxchannel.mx/peliculas/720/attraction.mkv
+#EXTINF:-1,Atomic Blonde (2017)
+http://vod.tuxchannel.mx/peliculas/720/atomic%20blonde.mkv
+#EXTINF:-1,Artemis Fowl (2020)
+http://vod.tuxchannel.mx/peliculas/720/artemis%20fowl%202020.mkv
+#EXTINF:-1,Armageddon (1998)
+http://vod.tuxchannel.mx/peliculas/720/armageddon.mkv
+#EXTINF:-1,Apocalypto (2006)
+http://vod.tuxchannel.mx/peliculas/720/apocalypto.mkv
+#EXTINF:-1,Amityville: El despertar (2017)
+http://vod.tuxchannel.mx/peliculas/720/amityville%20the%20awakening.mkv
+#EXTINF:-1,Emboscada (2022)
+http://vod.tuxchannel.mx/peliculas/720/american%20siege%202022.mkv
+#EXTINF:-1,Alien Warfare (2019)
+http://vod.tuxchannel.mx/peliculas/720/alien_warfare_2019.mkv
+#EXTINF:-1,Aladdin (2019)
+http://vod.tuxchannel.mx/peliculas/720/aladdin%202019.mkv
+#EXTINF:-1,Mas allá de la muerte (2009)
+http://vod.tuxchannel.mx/peliculas/720/after%20life%202009.mkv
+#EXTINF:-1,Después de la Tierra (2013)
+http://vod.tuxchannel.mx/peliculas/720/after%20earth.mkv
+#EXTINF:-1,Un lugar en silencio 2 (2021)
+http://vod.tuxchannel.mx/peliculas/720/a%20quiet%20place%20part%20II%202021.mkv
+#EXTINF:-1,La cura siniestra (2016)
+http://vod.tuxchannel.mx/peliculas/720/a%20cure%20for%20wellness.mkv
+#EXTINF:-1,Un cuento de Navidad (1984)
+http://vod.tuxchannel.mx/peliculas/720/a%20christmas%20carol%201984.mkv
+#EXTINF:-1,4:44 El último día en la Tierra (2011)
+http://vod.tuxchannel.mx/peliculas/720/444%20last%20day%20on%20earth.mkv
+#EXTINF:-1,30 Días de oscuridad (2007)
+http://vod.tuxchannel.mx/peliculas/720/30%20days%20of%20night.mkv
+#EXTINF:-1,28 Dias Exterminio (2012)
+http://vod.tuxchannel.mx/peliculas/720/28%20days%20later.mkv
+#EXTINF:-1,Embaucadores (2023)
+http://208.88.245.85/nuevo/sharper.2023.dual.mkv
+#EXTINF:-1,Un paraíso peligroso (2023)
+http://208.88.245.85/nuevo/paradisecity.dual.2023.mkv
+#EXTINF:-1,Narvik (2023)
+http://208.88.245.85/nuevo/narvik.2023.dual.mkv
+#EXTINF:-1,Malcriados (2023)
+http://208.88.245.85/nuevo/malcriados.2023.latino.mkv
+#EXTINF:-1,El último baile de Magic Mike (2023)
+http://208.88.245.85/nuevo/magicmike.elultimo.baile.dual2023.mkv
+#EXTINF:-1,Llaman a la puerta (2023)
+http://208.88.245.85/nuevo/llaman.ala.puerta.dual.2023.mkv
+#EXTINF:-1,Historia de Honor (2022)
+http://208.88.245.85/nuevo/historia.dehonor.dual2023.mkv
+#EXTINF:-1,Bodas de plomo (2023)
+http://208.88.245.85/nuevo/bodas.deplomo.2023.dual.mkv
+#EXTINF:-1, Sin Nombre
+https://pc-39.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/a785e8da8d95dc2edc65116ca04ec9fa/EP.0.1.v0.1677138219.m3u8
